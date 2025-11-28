@@ -30,6 +30,11 @@ function applyTheme(theme) {
      */
     async function init() {
         try {
+
+            /* Load saved theme preference BEFORE UI renders */
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            document.documentElement.classList.toggle('dark-mode', savedTheme === 'dark');
+
             // Load data
             console.log('Loading analysis data...');
             const data = await DataLoader.loadData();
@@ -364,4 +369,5 @@ if (document.readyState === 'loading') {
 }
 
 })();
+
 
