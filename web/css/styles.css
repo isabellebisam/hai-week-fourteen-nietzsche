@@ -1,5 +1,76 @@
 /* Nietzsche Distant Reading Analysis - Stylesheet */
 
+/* ---------- DARK MODE BASE ---------- */
+body.dark-mode {
+    background-color: #0b1120; /* quase preto azulado */
+    color: #e5e7eb;
+}
+
+/* topo */
+body.dark-mode .navbar,
+body.dark-mode header {
+    background-color: #020617 !important;
+    border-bottom: 1px solid #1f2937;
+}
+
+/* painel lateral e cards */
+body.dark-mode .card,
+body.dark-mode .list-group-item,
+body.dark-mode .form-select,
+body.dark-mode .form-control {
+    background-color: #020617;
+    color: #e5e7eb;
+    border-color: #1f2937;
+}
+
+/* hover na lista da esquerda */
+body.dark-mode .list-group-item:hover,
+body.dark-mode .list-group-item.active {
+    background-color: #1d2537;
+    color: #f9fafb;
+}
+
+/* abas (Overview / Word Cloud / Sentiment / ...) */
+body.dark-mode .nav-tabs .nav-link {
+    background-color: transparent;
+    color: #9ca3af;
+    border-color: transparent;
+}
+
+body.dark-mode .nav-tabs .nav-link.active {
+    background-color: #111827;
+    color: #f9fafb;
+    border-color: #1f2937 #1f2937 transparent;
+}
+
+/* textos em tabelas e métricas */
+body.dark-mode table {
+    color: #e5e7eb;
+}
+
+body.dark-mode table thead th {
+    background-color: #020617;
+}
+
+body.dark-mode table tbody tr:nth-child(odd) {
+    background-color: #020617;
+}
+
+body.dark-mode table tbody tr:nth-child(even) {
+    background-color: #020617;
+}
+
+/* links / pequenos detalhes */
+body.dark-mode a {
+    color: #93c5fd;
+}
+
+/* ajuste do fundo dos gráficos (D3/Chart.js) – deixa o container escuro */
+body.dark-mode .chart-container,
+body.dark-mode #wordcloud-viz {
+    background-color: #020617;
+}
+
 /* Base styles */
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -305,3 +376,4 @@ h1, h2, h3, h4, h5, h6 {
         page-break-inside: avoid;
     }
 }
+
