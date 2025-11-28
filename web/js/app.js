@@ -3,6 +3,22 @@
  * Orchestrates the Nietzsche Distant Reading Analysis interface
  */
 
+/* =========================
+   THEME CONTROL FUNCTIONS
+   ========================= */
+function applyTheme(theme) {
+    const body = document.body;
+    const toggleBtn = document.getElementById('theme-toggle');
+
+    if (theme === 'dark') {
+        body.classList.add('dark-mode');
+        toggleBtn.textContent = '☀ Light mode';
+    } else {
+        body.classList.remove('dark-mode');
+        toggleBtn.textContent = '🌙 Dark mode';
+    }
+}
+
 (function() {
     let allTexts = [];
     let currentText = null;
@@ -298,10 +314,54 @@
         }
     }
 
-    // Initialize when DOM is ready
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', init);
-    } else {
-        init();
+   // Initialize when DOM is ready
+if (document.readyState === 'loading') {
+
+    document.addEventListener('DOMContentLoaded', () => {
+        
+        // 🔥 Carrega tema salvo
+        const savedTheme = localStorage.getItem('theme') || 'light';
+        applyTheme(savedTheme);
+
+        // 🔥 Listener do botão Dark Mode
+        const toggleBtn = document.getElementById('theme-toggle');
+        if (toggleBtn) {
+            toggleBtn.addEventListener('click', () => {
+                const newTheme = document.body.classList.contains('dark-mode') ? 'light' : 'dark';
+                localStorage.setItem('theme', newTheme);
+                applyTheme(newTheme);
+            });
+        }
+
+        // 🔥 Botão PDF (se existir)
+        const pdfBtn = document.getElementById('export-pdf');
+        if (pdfBtn) pdfBtn.addEventListener('click', () => window.print());
+
+        init(); // ⬅ só roda depois de configurar o tema
+    });
+
+} else {
+
+    // 🔥 Carrega tema salvo
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    applyTheme(savedTheme);
+
+    // 🔥 Listener do botão Dark Mode
+    const toggleBtn = document.getElementById('theme-toggle');
+    if (toggleBtn) {
+        toggleBtn.addEventListener('click', () => {
+            const newTheme = document.body.classList.contains('dark-mode') ? 'light' : 'dark';
+            localStorage.setItem('theme', newTheme);
+            applyTheme(newTheme);
+        });
     }
+
+    // 🔥 Botão PDF
+    const pdfBtn = document.getElementById('export-pdf');
+    if (pdfBtn) pdfBtn.addEventListener('click', () => window.print());
+
+    init(); // ⬅ só roda depois do tema
+}
+
 })();
+
