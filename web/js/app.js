@@ -195,6 +195,25 @@ function applyTheme(theme) {
         const statsEl = document.getElementById('overview-stats');
         const insightsEl = document.getElementById('quick-insights');
 
+   // ----------------- SUMMARY AREA ------------------
+const summaryEl = document.getElementById('overview-summary-text');
+
+      if (summaryEl) {
+         const summaries = {
+              'Ecce Homo': 'Nietzsche revisits his life, philosophy and creative mind, blending reflection, pride and self-irony.',
+              'Human All Too Human': 'A transitional work — sharp, analytical, dismantling metaphysics and morality with psychological critique.',
+              'Beyond Good and Evil': 'Goes beyond traditional morality — values, power, perspectivism and the critique of dogmatic thinking.',
+              'The Antichrist': 'A fierce confrontation with Christianity — power, instinct, life-affirmation vs denial and guilt.',
+              'The Birth of Tragedy': 'Dionysian vs Apollonian — art, chaos, form, Greek tragedy as the height of human creation.',
+              'The Genealogy of Morals': 'Origins of guilt, punishment, resentment — psychology of morality and power.',
+              'The Twilight of the Idols': 'Nietzsche dismantles idols — reason, morality, philosophy, religion — with hammer-blows.'
+         };
+
+         summaryEl.textContent = summaries[text.title] 
+            || 'Summary coming soon.';
+}
+// ---------------------------------------------------
+
         if (statsEl) {
             statsEl.innerHTML = `
                 <tr>
@@ -369,5 +388,6 @@ if (document.readyState === 'loading') {
 }
 
 })();
+
 
 
