@@ -359,21 +359,61 @@ h1, h2, h3, h4, h5, h6 {
     background: #555;
 }
 
-/* Print styles */
+/* ============================
+   PRINT / PDF EXPORT STYLES
+   ============================ */
 @media print {
+
+    /* Remove navegação, sidebar e botões */
     .navbar,
     .col-md-3,
-    #analysis-tabs {
-        display: none;
+    #analysis-tabs,
+    #theme-toggle,
+    #export-pdf,
+    .btn {
+        display: none !important;
     }
 
-    .col-md-9 {
-        width: 100%;
+    /* Área do conteúdo ocupa toda a largura */
+    .col-md-9,
+    main,
+    #analysis-content {
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 0 20px !important;
     }
 
+    /* Cartões ficam limpos e sem sombras */
     .card {
-        box-shadow: none;
+        box-shadow: none !important;
+        border: none !important;
+        page-break-inside: avoid;
+        padding: 10px 0;
+    }
+
+    /* Wordcloud, gráficos e tabelas centralizados */
+    img,
+    canvas,
+    .chart-container {
+        max-width: 100% !important;
+        margin: 0 auto !important;
+        display: block;
         page-break-inside: avoid;
     }
+
+    /* Títulos em destaque no PDF */
+    h1, h2, h3 {
+        font-weight: bold !important;
+        margin-top: 25px !important;
+        page-break-after: avoid;
+    }
+
+    body {
+        background: white !important;
+        color: #000 !important;
+        font-size: 14px;
+    }
 }
+
+
 
