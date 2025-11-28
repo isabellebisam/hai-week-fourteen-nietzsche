@@ -1,0 +1,5726 @@
+{
+  "metadata": {
+    "generated": "2025-11-28T16:25:41.364055",
+    "total_texts": 7,
+    "analysis_version": "1.0"
+  },
+  "texts": [
+    {
+      "id": "beyond_good_and_evil",
+      "title": "Beyond Good and Evil",
+      "filename": "Nietzsche_Beyond Good and Evil.txt",
+      "word_count": 62815,
+      "unique_words": 7490,
+      "bag_of_words": {
+        "top_100": [
+          {
+            "word": "one",
+            "count": 438
+          },
+          {
+            "word": "man",
+            "count": 238
+          },
+          {
+            "word": "even",
+            "count": 192
+          },
+          {
+            "word": "also",
+            "count": 164
+          },
+          {
+            "word": "perhaps",
+            "count": 158
+          },
+          {
+            "word": "every",
+            "count": 143
+          },
+          {
+            "word": "good",
+            "count": 129
+          },
+          {
+            "word": "men",
+            "count": 125
+          },
+          {
+            "word": "would",
+            "count": 123
+          },
+          {
+            "word": "must",
+            "count": 122
+          },
+          {
+            "word": "still",
+            "count": 121
+          },
+          {
+            "word": "may",
+            "count": 116
+          },
+          {
+            "word": "something",
+            "count": 113
+          },
+          {
+            "word": "new",
+            "count": 98
+          },
+          {
+            "word": "always",
+            "count": 98
+          },
+          {
+            "word": "like",
+            "count": 97
+          },
+          {
+            "word": "german",
+            "count": 91
+          },
+          {
+            "word": "woman",
+            "count": 87
+          },
+          {
+            "word": "time",
+            "count": 87
+          },
+          {
+            "word": "say",
+            "count": 85
+          },
+          {
+            "word": "soul",
+            "count": 84
+          },
+          {
+            "word": "great",
+            "count": 83
+          },
+          {
+            "word": "life",
+            "count": 83
+          },
+          {
+            "word": "love",
+            "count": 83
+          },
+          {
+            "word": "much",
+            "count": 83
+          },
+          {
+            "word": "morality",
+            "count": 80
+          },
+          {
+            "word": "spirit",
+            "count": 79
+          },
+          {
+            "word": "among",
+            "count": 76
+          },
+          {
+            "word": "old",
+            "count": 75
+          },
+          {
+            "word": "taste",
+            "count": 74
+          },
+          {
+            "word": "world",
+            "count": 73
+          },
+          {
+            "word": "things",
+            "count": 71
+          },
+          {
+            "word": "people",
+            "count": 71
+          },
+          {
+            "word": "however",
+            "count": 71
+          },
+          {
+            "word": "could",
+            "count": 68
+          },
+          {
+            "word": "philosophy",
+            "count": 67
+          },
+          {
+            "word": "hitherto",
+            "count": 66
+          },
+          {
+            "word": "europe",
+            "count": 66
+          },
+          {
+            "word": "let",
+            "count": 66
+          },
+          {
+            "word": "fact",
+            "count": 66
+          },
+          {
+            "word": "means",
+            "count": 64
+          },
+          {
+            "word": "long",
+            "count": 64
+          },
+          {
+            "word": "god",
+            "count": 64
+          },
+          {
+            "word": "almost",
+            "count": 64
+          },
+          {
+            "word": "philosophers",
+            "count": 63
+          },
+          {
+            "word": "power",
+            "count": 63
+          },
+          {
+            "word": "without",
+            "count": 61
+          },
+          {
+            "word": "know",
+            "count": 61
+          },
+          {
+            "word": "truth",
+            "count": 60
+          },
+          {
+            "word": "philosopher",
+            "count": 60
+          },
+          {
+            "word": "far",
+            "count": 59
+          },
+          {
+            "word": "moral",
+            "count": 59
+          },
+          {
+            "word": "everything",
+            "count": 59
+          },
+          {
+            "word": "upon",
+            "count": 58
+          },
+          {
+            "word": "nature",
+            "count": 58
+          },
+          {
+            "word": "many",
+            "count": 57
+          },
+          {
+            "word": "conscience",
+            "count": 57
+          },
+          {
+            "word": "noble",
+            "count": 56
+          },
+          {
+            "word": "kind",
+            "count": 54
+          },
+          {
+            "word": "order",
+            "count": 54
+          },
+          {
+            "word": "sense",
+            "count": 54
+          },
+          {
+            "word": "make",
+            "count": 54
+          },
+          {
+            "word": "thereby",
+            "count": 53
+          },
+          {
+            "word": "nothing",
+            "count": 53
+          },
+          {
+            "word": "present",
+            "count": 52
+          },
+          {
+            "word": "precisely",
+            "count": 52
+          },
+          {
+            "word": "free",
+            "count": 51
+          },
+          {
+            "word": "enough",
+            "count": 51
+          },
+          {
+            "word": "sympathy",
+            "count": 51
+          },
+          {
+            "word": "last",
+            "count": 50
+          },
+          {
+            "word": "first",
+            "count": 49
+          },
+          {
+            "word": "dangerous",
+            "count": 49
+          },
+          {
+            "word": "higher",
+            "count": 49
+          },
+          {
+            "word": "well",
+            "count": 49
+          },
+          {
+            "word": "another",
+            "count": 48
+          },
+          {
+            "word": "heart",
+            "count": 47
+          },
+          {
+            "word": "end",
+            "count": 47
+          },
+          {
+            "word": "right",
+            "count": 47
+          },
+          {
+            "word": "instance",
+            "count": 45
+          },
+          {
+            "word": "art",
+            "count": 45
+          },
+          {
+            "word": "whole",
+            "count": 44
+          },
+          {
+            "word": "instinct",
+            "count": 44
+          },
+          {
+            "word": "nowadays",
+            "count": 44
+          },
+          {
+            "word": "knowledge",
+            "count": 43
+          },
+          {
+            "word": "best",
+            "count": 43
+          },
+          {
+            "word": "bad",
+            "count": 43
+          },
+          {
+            "word": "longer",
+            "count": 42
+          },
+          {
+            "word": "seems",
+            "count": 41
+          },
+          {
+            "word": "might",
+            "count": 41
+          },
+          {
+            "word": "whether",
+            "count": 41
+          },
+          {
+            "word": "certain",
+            "count": 41
+          },
+          {
+            "word": "made",
+            "count": 40
+          },
+          {
+            "word": "modern",
+            "count": 40
+          },
+          {
+            "word": "general",
+            "count": 40
+          },
+          {
+            "word": "hand",
+            "count": 39
+          },
+          {
+            "word": "really",
+            "count": 39
+          },
+          {
+            "word": "question",
+            "count": 39
+          },
+          {
+            "word": "way",
+            "count": 39
+          },
+          {
+            "word": "finally",
+            "count": 39
+          },
+          {
+            "word": "morals",
+            "count": 38
+          }
+        ],
+        "total_vocabulary": 7333,
+        "total_words_analyzed": 30017
+      },
+      "sentiment": {
+        "vader": {
+          "compound": 0.9045,
+          "positive": 0.1452,
+          "negative": 0.0929,
+          "neutral": 0.7618
+        }
+      },
+      "style_metrics": {
+        "sentences": {
+          "count": 1990,
+          "avg_length": 38.16,
+          "median_length": 27.0,
+          "std_dev": 41.32,
+          "min_length": 2,
+          "max_length": 514,
+          "distribution": {
+            "0-10": 542,
+            "11-20": 306,
+            "21-30": 242,
+            "31-40": 164,
+            "41-50": 165,
+            "51+": 571
+          }
+        },
+        "vocabulary": {
+          "total_words": 62815,
+          "unique_words": 7490,
+          "type_token_ratio": 0.1192,
+          "lexical_diversity": 29.8848
+        },
+        "readability": {
+          "flesch_reading_ease": 44.21,
+          "flesch_kincaid_grade": 15.8,
+          "gunning_fog": 15.93
+        },
+        "word_length": {
+          "average": 4.72,
+          "distribution": {
+            "1-3": 27210,
+            "4-6": 20666,
+            "7-9": 10525,
+            "10+": 4414
+          }
+        },
+        "punctuation": {
+          "period": 1553,
+          "exclamation": 378,
+          "question": 295,
+          "semicolon": 503,
+          "colon": 393,
+          "comma": 5698,
+          "dash": 1147,
+          "parentheses": 360,
+          "quotes": 1963,
+          "density_per_1000": 195.65
+        }
+      },
+      "ngrams": {
+        "bigrams": [
+          {
+            "phrase": "even the",
+            "count": 46
+          },
+          {
+            "phrase": "for instance",
+            "count": 40
+          },
+          {
+            "phrase": "one must",
+            "count": 36
+          },
+          {
+            "phrase": "the world",
+            "count": 36
+          },
+          {
+            "phrase": "the german",
+            "count": 32
+          },
+          {
+            "phrase": "the spirit",
+            "count": 30
+          },
+          {
+            "phrase": "the philosopher",
+            "count": 29
+          },
+          {
+            "phrase": "the good",
+            "count": 28
+          },
+          {
+            "phrase": "also the",
+            "count": 28
+          },
+          {
+            "phrase": "the whole",
+            "count": 28
+          },
+          {
+            "phrase": "the end",
+            "count": 27
+          },
+          {
+            "phrase": "with regard",
+            "count": 27
+          },
+          {
+            "phrase": "the best",
+            "count": 25
+          },
+          {
+            "phrase": "good and",
+            "count": 24
+          },
+          {
+            "phrase": "that say",
+            "count": 24
+          },
+          {
+            "phrase": "the old",
+            "count": 24
+          },
+          {
+            "phrase": "among the",
+            "count": 23
+          },
+          {
+            "phrase": "that one",
+            "count": 22
+          },
+          {
+            "phrase": "and also",
+            "count": 22
+          },
+          {
+            "phrase": "the fact",
+            "count": 22
+          },
+          {
+            "phrase": "and even",
+            "count": 21
+          },
+          {
+            "phrase": "has hitherto",
+            "count": 21
+          },
+          {
+            "phrase": "the soul",
+            "count": 21
+          },
+          {
+            "phrase": "the great",
+            "count": 21
+          },
+          {
+            "phrase": "man and",
+            "count": 21
+          },
+          {
+            "phrase": "one has",
+            "count": 20
+          },
+          {
+            "phrase": "the noble",
+            "count": 20
+          },
+          {
+            "phrase": "hitherto been",
+            "count": 19
+          },
+          {
+            "phrase": "the future",
+            "count": 19
+          },
+          {
+            "phrase": "fact that",
+            "count": 19
+          }
+        ],
+        "trigrams": [
+          {
+            "phrase": "the fact that",
+            "count": 17
+          },
+          {
+            "phrase": "the same time",
+            "count": 15
+          },
+          {
+            "phrase": "good and evil",
+            "count": 14
+          },
+          {
+            "phrase": "has hitherto been",
+            "count": 13
+          },
+          {
+            "phrase": "the other hand",
+            "count": 13
+          },
+          {
+            "phrase": "for instance the",
+            "count": 11
+          },
+          {
+            "phrase": "for the sake",
+            "count": 11
+          },
+          {
+            "phrase": "beyond good and",
+            "count": 10
+          },
+          {
+            "phrase": "with regard the",
+            "count": 8
+          },
+          {
+            "phrase": "and nothing else",
+            "count": 7
+          },
+          {
+            "phrase": "with one another",
+            "count": 7
+          },
+          {
+            "phrase": "one must not",
+            "count": 7
+          },
+          {
+            "phrase": "man and woman",
+            "count": 7
+          },
+          {
+            "phrase": "the german spirit",
+            "count": 6
+          },
+          {
+            "phrase": "cause and effect",
+            "count": 6
+          },
+          {
+            "phrase": "has always been",
+            "count": 6
+          },
+          {
+            "phrase": "man who has",
+            "count": 6
+          },
+          {
+            "phrase": "the type man",
+            "count": 6
+          },
+          {
+            "phrase": "the historical sense",
+            "count": 6
+          },
+          {
+            "phrase": "the greater part",
+            "count": 5
+          },
+          {
+            "phrase": "and even the",
+            "count": 5
+          },
+          {
+            "phrase": "one time another",
+            "count": 5
+          },
+          {
+            "phrase": "the most spiritual",
+            "count": 5
+          },
+          {
+            "phrase": "the present day",
+            "count": 5
+          },
+          {
+            "phrase": "hitherto been the",
+            "count": 5
+          },
+          {
+            "phrase": "which have hitherto",
+            "count": 5
+          },
+          {
+            "phrase": "which has hitherto",
+            "count": 5
+          },
+          {
+            "phrase": "and also the",
+            "count": 5
+          },
+          {
+            "phrase": "with the help",
+            "count": 5
+          },
+          {
+            "phrase": "the order rank",
+            "count": 5
+          }
+        ]
+      },
+      "key_concepts": [
+        {
+          "term": "will to power",
+          "count": 15,
+          "variants": [
+            "Will to Power",
+            "WILL TO POWER"
+          ]
+        },
+        {
+          "term": "perspectivism",
+          "count": 13,
+          "variants": [
+            "PERSPECTIVE",
+            "perspective",
+            "PERSPECTIVES",
+            "perspectives"
+          ]
+        },
+        {
+          "term": "slave morality",
+          "count": 6,
+          "variants": [
+            "Slave-morality",
+            "SLAVE-MORALITY",
+            "slave-morality"
+          ]
+        },
+        {
+          "term": "master morality",
+          "count": 2,
+          "variants": [
+            "MASTER-MORALITY",
+            "master-morality"
+          ]
+        },
+        {
+          "term": "übermensch",
+          "count": 1,
+          "variants": [
+            "overman"
+          ]
+        },
+        {
+          "term": "nihilism",
+          "count": 1,
+          "variants": [
+            "Nihilism"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ecce_homo",
+      "title": "Ecce Homo",
+      "filename": "Nietzsche_Ecce Homo.txt",
+      "word_count": 46180,
+      "unique_words": 6280,
+      "bag_of_words": {
+        "top_100": [
+          {
+            "word": "one",
+            "count": 301
+          },
+          {
+            "word": "man",
+            "count": 154
+          },
+          {
+            "word": "even",
+            "count": 145
+          },
+          {
+            "word": "life",
+            "count": 127
+          },
+          {
+            "word": "would",
+            "count": 110
+          },
+          {
+            "word": "first",
+            "count": 107
+          },
+          {
+            "word": "things",
+            "count": 106
+          },
+          {
+            "word": "must",
+            "count": 83
+          },
+          {
+            "word": "like",
+            "count": 82
+          },
+          {
+            "word": "book",
+            "count": 80
+          },
+          {
+            "word": "german",
+            "count": 78
+          },
+          {
+            "word": "every",
+            "count": 76
+          },
+          {
+            "word": "time",
+            "count": 74
+          },
+          {
+            "word": "ever",
+            "count": 73
+          },
+          {
+            "word": "great",
+            "count": 69
+          },
+          {
+            "word": "upon",
+            "count": 68
+          },
+          {
+            "word": "fact",
+            "count": 67
+          },
+          {
+            "word": "wagner",
+            "count": 64
+          },
+          {
+            "word": "zarathustra",
+            "count": 63
+          },
+          {
+            "word": "never",
+            "count": 63
+          },
+          {
+            "word": "still",
+            "count": 62
+          },
+          {
+            "word": "good",
+            "count": 61
+          },
+          {
+            "word": "thy",
+            "count": 59
+          },
+          {
+            "word": "also",
+            "count": 57
+          },
+          {
+            "word": "whole",
+            "count": 57
+          },
+          {
+            "word": "could",
+            "count": 57
+          },
+          {
+            "word": "say",
+            "count": 56
+          },
+          {
+            "word": "men",
+            "count": 56
+          },
+          {
+            "word": "soul",
+            "count": 56
+          },
+          {
+            "word": "truth",
+            "count": 55
+          },
+          {
+            "word": "thou",
+            "count": 55
+          },
+          {
+            "word": "nietzsche",
+            "count": 54
+          },
+          {
+            "word": "day",
+            "count": 53
+          },
+          {
+            "word": "means",
+            "count": 53
+          },
+          {
+            "word": "last",
+            "count": 51
+          },
+          {
+            "word": "love",
+            "count": 51
+          },
+          {
+            "word": "may",
+            "count": 50
+          },
+          {
+            "word": "everything",
+            "count": 49
+          },
+          {
+            "word": "work",
+            "count": 48
+          },
+          {
+            "word": "yet",
+            "count": 48
+          },
+          {
+            "word": "order",
+            "count": 48
+          },
+          {
+            "word": "among",
+            "count": 47
+          },
+          {
+            "word": "two",
+            "count": 47
+          },
+          {
+            "word": "word",
+            "count": 47
+          },
+          {
+            "word": "footnote",
+            "count": 46
+          },
+          {
+            "word": "much",
+            "count": 45
+          },
+          {
+            "word": "light",
+            "count": 45
+          },
+          {
+            "word": "germans",
+            "count": 45
+          },
+          {
+            "word": "know",
+            "count": 44
+          },
+          {
+            "word": "see",
+            "count": 43
+          },
+          {
+            "word": "world",
+            "count": 43
+          },
+          {
+            "word": "spirit",
+            "count": 42
+          },
+          {
+            "word": "morality",
+            "count": 42
+          },
+          {
+            "word": "people",
+            "count": 40
+          },
+          {
+            "word": "little",
+            "count": 39
+          },
+          {
+            "word": "nothing",
+            "count": 39
+          },
+          {
+            "word": "thought",
+            "count": 38
+          },
+          {
+            "word": "far",
+            "count": 38
+          },
+          {
+            "word": "become",
+            "count": 38
+          },
+          {
+            "word": "new",
+            "count": 38
+          },
+          {
+            "word": "come",
+            "count": 37
+          },
+          {
+            "word": "alone",
+            "count": 37
+          },
+          {
+            "word": "thing",
+            "count": 37
+          },
+          {
+            "word": "perhaps",
+            "count": 37
+          },
+          {
+            "word": "without",
+            "count": 36
+          },
+          {
+            "word": "way",
+            "count": 36
+          },
+          {
+            "word": "nature",
+            "count": 35
+          },
+          {
+            "word": "years",
+            "count": 34
+          },
+          {
+            "word": "old",
+            "count": 34
+          },
+          {
+            "word": "well",
+            "count": 34
+          },
+          {
+            "word": "art",
+            "count": 34
+          },
+          {
+            "word": "hand",
+            "count": 33
+          },
+          {
+            "word": "something",
+            "count": 33
+          },
+          {
+            "word": "values",
+            "count": 33
+          },
+          {
+            "word": "already",
+            "count": 33
+          },
+          {
+            "word": "god",
+            "count": 33
+          },
+          {
+            "word": "end",
+            "count": 32
+          },
+          {
+            "word": "regard",
+            "count": 32
+          },
+          {
+            "word": "made",
+            "count": 32
+          },
+          {
+            "word": "thus",
+            "count": 31
+          },
+          {
+            "word": "part",
+            "count": 31
+          },
+          {
+            "word": "speak",
+            "count": 31
+          },
+          {
+            "word": "kind",
+            "count": 31
+          },
+          {
+            "word": "instance",
+            "count": 31
+          },
+          {
+            "word": "always",
+            "count": 31
+          },
+          {
+            "word": "called",
+            "count": 31
+          },
+          {
+            "word": "culture",
+            "count": 31
+          },
+          {
+            "word": "find",
+            "count": 30
+          },
+          {
+            "word": "heart",
+            "count": 30
+          },
+          {
+            "word": "music",
+            "count": 30
+          },
+          {
+            "word": "free",
+            "count": 29
+          },
+          {
+            "word": "shall",
+            "count": 29
+          },
+          {
+            "word": "books",
+            "count": 28
+          },
+          {
+            "word": "wisdom",
+            "count": 28
+          },
+          {
+            "word": "many",
+            "count": 28
+          },
+          {
+            "word": "make",
+            "count": 28
+          },
+          {
+            "word": "words",
+            "count": 28
+          },
+          {
+            "word": "long",
+            "count": 28
+          },
+          {
+            "word": "mine",
+            "count": 28
+          },
+          {
+            "word": "instincts",
+            "count": 28
+          }
+        ],
+        "total_vocabulary": 6131,
+        "total_words_analyzed": 21929
+      },
+      "sentiment": {
+        "vader": {
+          "compound": 0.8387,
+          "positive": 0.1412,
+          "negative": 0.0994,
+          "neutral": 0.7592
+        }
+      },
+      "style_metrics": {
+        "sentences": {
+          "count": 1958,
+          "avg_length": 28.68,
+          "median_length": 23.0,
+          "std_dev": 22.97,
+          "min_length": 1,
+          "max_length": 229,
+          "distribution": {
+            "0-10": 398,
+            "11-20": 493,
+            "21-30": 354,
+            "31-40": 273,
+            "41-50": 167,
+            "51+": 273
+          }
+        },
+        "vocabulary": {
+          "total_words": 46180,
+          "unique_words": 6280,
+          "type_token_ratio": 0.136,
+          "lexical_diversity": 29.2235
+        },
+        "readability": {
+          "flesch_reading_ease": 65.35,
+          "flesch_kincaid_grade": 9.8,
+          "gunning_fog": 10.56
+        },
+        "word_length": {
+          "average": 4.41,
+          "distribution": {
+            "1-3": 20551,
+            "4-6": 16744,
+            "7-9": 6674,
+            "10+": 2211
+          }
+        },
+        "punctuation": {
+          "period": 2067,
+          "exclamation": 357,
+          "question": 225,
+          "semicolon": 318,
+          "colon": 349,
+          "comma": 3675,
+          "dash": 725,
+          "parentheses": 145,
+          "quotes": 1226,
+          "density_per_1000": 196.76
+        }
+      },
+      "ngrams": {
+        "bigrams": [
+          {
+            "phrase": "the first",
+            "count": 69
+          },
+          {
+            "phrase": "fact that",
+            "count": 46
+          },
+          {
+            "phrase": "the fact",
+            "count": 40
+          },
+          {
+            "phrase": "the whole",
+            "count": 37
+          },
+          {
+            "phrase": "for instance",
+            "count": 30
+          },
+          {
+            "phrase": "even the",
+            "count": 27
+          },
+          {
+            "phrase": "the last",
+            "count": 26
+          },
+          {
+            "phrase": "that say",
+            "count": 26
+          },
+          {
+            "phrase": "this book",
+            "count": 26
+          },
+          {
+            "phrase": "the germans",
+            "count": 22
+          },
+          {
+            "phrase": "one the",
+            "count": 21
+          },
+          {
+            "phrase": "the world",
+            "count": 21
+          },
+          {
+            "phrase": "the great",
+            "count": 20
+          },
+          {
+            "phrase": "the highest",
+            "count": 20
+          },
+          {
+            "phrase": "the german",
+            "count": 20
+          },
+          {
+            "phrase": "the greatest",
+            "count": 19
+          },
+          {
+            "phrase": "the book",
+            "count": 18
+          },
+          {
+            "phrase": "the good",
+            "count": 17
+          },
+          {
+            "phrase": "the end",
+            "count": 16
+          },
+          {
+            "phrase": "these things",
+            "count": 15
+          },
+          {
+            "phrase": "any one",
+            "count": 15
+          },
+          {
+            "phrase": "upon the",
+            "count": 15
+          },
+          {
+            "phrase": "has ever",
+            "count": 14
+          },
+          {
+            "phrase": "one self",
+            "count": 14
+          },
+          {
+            "phrase": "one day",
+            "count": 14
+          },
+          {
+            "phrase": "which one",
+            "count": 14
+          },
+          {
+            "phrase": "life the",
+            "count": 13
+          },
+          {
+            "phrase": "good and",
+            "count": 13
+          },
+          {
+            "phrase": "man who",
+            "count": 13
+          },
+          {
+            "phrase": "that time",
+            "count": 13
+          }
+        ],
+        "trigrams": [
+          {
+            "phrase": "the fact that",
+            "count": 39
+          },
+          {
+            "phrase": "good and evil",
+            "count": 10
+          },
+          {
+            "phrase": "for instance the",
+            "count": 8
+          },
+          {
+            "phrase": "was the first",
+            "count": 8
+          },
+          {
+            "phrase": "little angel call",
+            "count": 8
+          },
+          {
+            "phrase": "angel call they",
+            "count": 8
+          },
+          {
+            "phrase": "all these things",
+            "count": 7
+          },
+          {
+            "phrase": "the germans are",
+            "count": 7
+          },
+          {
+            "phrase": "fact that the",
+            "count": 7
+          },
+          {
+            "phrase": "for the first",
+            "count": 6
+          },
+          {
+            "phrase": "the first time",
+            "count": 6
+          },
+          {
+            "phrase": "twilight the idols",
+            "count": 5
+          },
+          {
+            "phrase": "the first condition",
+            "count": 5
+          },
+          {
+            "phrase": "any one the",
+            "count": 5
+          },
+          {
+            "phrase": "the same time",
+            "count": 5
+          },
+          {
+            "phrase": "has hitherto been",
+            "count": 5
+          },
+          {
+            "phrase": "the other hand",
+            "count": 5
+          },
+          {
+            "phrase": "far the most",
+            "count": 5
+          },
+          {
+            "phrase": "and still less",
+            "count": 5
+          },
+          {
+            "phrase": "that have ever",
+            "count": 5
+          },
+          {
+            "phrase": "the german language",
+            "count": 5
+          },
+          {
+            "phrase": "and evil the",
+            "count": 4
+          },
+          {
+            "phrase": "the twilight the",
+            "count": 4
+          },
+          {
+            "phrase": "the manner which",
+            "count": 4
+          },
+          {
+            "phrase": "not wage war",
+            "count": 4
+          },
+          {
+            "phrase": "attack only those",
+            "count": 4
+          },
+          {
+            "phrase": "only those things",
+            "count": 4
+          },
+          {
+            "phrase": "the man who",
+            "count": 4
+          },
+          {
+            "phrase": "transvaluation all values",
+            "count": 4
+          },
+          {
+            "phrase": "man that has",
+            "count": 4
+          }
+        ]
+      },
+      "key_concepts": [
+        {
+          "term": "dionysian",
+          "count": 17,
+          "variants": [
+            "Dionysian"
+          ]
+        },
+        {
+          "term": "ressentiment",
+          "count": 10,
+          "variants": [
+            "Resentment",
+            "resentment"
+          ]
+        },
+        {
+          "term": "übermensch",
+          "count": 7,
+          "variants": [
+            "Superman",
+            "superman"
+          ]
+        },
+        {
+          "term": "genealogy",
+          "count": 5,
+          "variants": [
+            "genealogy",
+            "Genealogy",
+            "GENEALOGY"
+          ]
+        },
+        {
+          "term": "will to power",
+          "count": 4,
+          "variants": [
+            "Will to Power",
+            "will to power"
+          ]
+        },
+        {
+          "term": "eternal recurrence",
+          "count": 2,
+          "variants": [
+            "Eternal Recurrence",
+            "eternal\nrecurrence"
+          ]
+        },
+        {
+          "term": "apollonian",
+          "count": 2,
+          "variants": [
+            "Apollonian"
+          ]
+        },
+        {
+          "term": "perspectivism",
+          "count": 1,
+          "variants": [
+            "perspectives"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "human_all_too_human",
+      "title": "Human All Too Human",
+      "filename": "Nietzsche_Human All Too Human.txt",
+      "word_count": 36449,
+      "unique_words": 5094,
+      "bag_of_words": {
+        "top_100": [
+          {
+            "word": "one",
+            "count": 166
+          },
+          {
+            "word": "man",
+            "count": 163
+          },
+          {
+            "word": "upon",
+            "count": 128
+          },
+          {
+            "word": "nature",
+            "count": 89
+          },
+          {
+            "word": "men",
+            "count": 89
+          },
+          {
+            "word": "may",
+            "count": 84
+          },
+          {
+            "word": "things",
+            "count": 83
+          },
+          {
+            "word": "world",
+            "count": 83
+          },
+          {
+            "word": "would",
+            "count": 83
+          },
+          {
+            "word": "must",
+            "count": 80
+          },
+          {
+            "word": "even",
+            "count": 79
+          },
+          {
+            "word": "life",
+            "count": 74
+          },
+          {
+            "word": "every",
+            "count": 72
+          },
+          {
+            "word": "good",
+            "count": 70
+          },
+          {
+            "word": "without",
+            "count": 61
+          },
+          {
+            "word": "human",
+            "count": 59
+          },
+          {
+            "word": "thus",
+            "count": 57
+          },
+          {
+            "word": "feeling",
+            "count": 56
+          },
+          {
+            "word": "much",
+            "count": 52
+          },
+          {
+            "word": "knowledge",
+            "count": 52
+          },
+          {
+            "word": "great",
+            "count": 51
+          },
+          {
+            "word": "self",
+            "count": 50
+          },
+          {
+            "word": "bad",
+            "count": 50
+          },
+          {
+            "word": "first",
+            "count": 49
+          },
+          {
+            "word": "pain",
+            "count": 49
+          },
+          {
+            "word": "thing",
+            "count": 49
+          },
+          {
+            "word": "individual",
+            "count": 47
+          },
+          {
+            "word": "moral",
+            "count": 44
+          },
+          {
+            "word": "always",
+            "count": 44
+          },
+          {
+            "word": "certain",
+            "count": 44
+          },
+          {
+            "word": "also",
+            "count": 44
+          },
+          {
+            "word": "time",
+            "count": 44
+          },
+          {
+            "word": "science",
+            "count": 43
+          },
+          {
+            "word": "acts",
+            "count": 43
+          },
+          {
+            "word": "well",
+            "count": 42
+          },
+          {
+            "word": "therefore",
+            "count": 42
+          },
+          {
+            "word": "mankind",
+            "count": 42
+          },
+          {
+            "word": "others",
+            "count": 42
+          },
+          {
+            "word": "conduct",
+            "count": 41
+          },
+          {
+            "word": "hence",
+            "count": 41
+          },
+          {
+            "word": "religious",
+            "count": 40
+          },
+          {
+            "word": "pleasure",
+            "count": 40
+          },
+          {
+            "word": "truth",
+            "count": 40
+          },
+          {
+            "word": "far",
+            "count": 40
+          },
+          {
+            "word": "made",
+            "count": 40
+          },
+          {
+            "word": "god",
+            "count": 39
+          },
+          {
+            "word": "yet",
+            "count": 39
+          },
+          {
+            "word": "means",
+            "count": 39
+          },
+          {
+            "word": "free",
+            "count": 38
+          },
+          {
+            "word": "order",
+            "count": 38
+          },
+          {
+            "word": "power",
+            "count": 37
+          },
+          {
+            "word": "whole",
+            "count": 37
+          },
+          {
+            "word": "religion",
+            "count": 37
+          },
+          {
+            "word": "soul",
+            "count": 36
+          },
+          {
+            "word": "spirit",
+            "count": 36
+          },
+          {
+            "word": "perhaps",
+            "count": 35
+          },
+          {
+            "word": "still",
+            "count": 34
+          },
+          {
+            "word": "case",
+            "count": 34
+          },
+          {
+            "word": "act",
+            "count": 34
+          },
+          {
+            "word": "could",
+            "count": 33
+          },
+          {
+            "word": "love",
+            "count": 33
+          },
+          {
+            "word": "become",
+            "count": 33
+          },
+          {
+            "word": "present",
+            "count": 33
+          },
+          {
+            "word": "feelings",
+            "count": 32
+          },
+          {
+            "word": "everything",
+            "count": 32
+          },
+          {
+            "word": "evil",
+            "count": 32
+          },
+          {
+            "word": "many",
+            "count": 32
+          },
+          {
+            "word": "something",
+            "count": 31
+          },
+          {
+            "word": "way",
+            "count": 31
+          },
+          {
+            "word": "indeed",
+            "count": 31
+          },
+          {
+            "word": "another",
+            "count": 31
+          },
+          {
+            "word": "ever",
+            "count": 30
+          },
+          {
+            "word": "true",
+            "count": 30
+          },
+          {
+            "word": "like",
+            "count": 30
+          },
+          {
+            "word": "state",
+            "count": 29
+          },
+          {
+            "word": "view",
+            "count": 28
+          },
+          {
+            "word": "metaphysical",
+            "count": 28
+          },
+          {
+            "word": "feel",
+            "count": 28
+          },
+          {
+            "word": "thought",
+            "count": 28
+          },
+          {
+            "word": "existence",
+            "count": 28
+          },
+          {
+            "word": "christian",
+            "count": 28
+          },
+          {
+            "word": "philosophy",
+            "count": 27
+          },
+          {
+            "word": "example",
+            "count": 27
+          },
+          {
+            "word": "reason",
+            "count": 27
+          },
+          {
+            "word": "sense",
+            "count": 27
+          },
+          {
+            "word": "whatever",
+            "count": 27
+          },
+          {
+            "word": "possible",
+            "count": 27
+          },
+          {
+            "word": "nothing",
+            "count": 27
+          },
+          {
+            "word": "fact",
+            "count": 26
+          },
+          {
+            "word": "called",
+            "count": 26
+          },
+          {
+            "word": "last",
+            "count": 25
+          },
+          {
+            "word": "justice",
+            "count": 25
+          },
+          {
+            "word": "higher",
+            "count": 25
+          },
+          {
+            "word": "course",
+            "count": 25
+          },
+          {
+            "word": "longer",
+            "count": 25
+          },
+          {
+            "word": "belief",
+            "count": 25
+          },
+          {
+            "word": "say",
+            "count": 24
+          },
+          {
+            "word": "result",
+            "count": 24
+          },
+          {
+            "word": "art",
+            "count": 23
+          },
+          {
+            "word": "point",
+            "count": 23
+          }
+        ],
+        "total_vocabulary": 4966,
+        "total_words_analyzed": 17454
+      },
+      "sentiment": {
+        "vader": {
+          "compound": 0.9144,
+          "positive": 0.1535,
+          "negative": 0.1072,
+          "neutral": 0.7392
+        }
+      },
+      "style_metrics": {
+        "sentences": {
+          "count": 1185,
+          "avg_length": 35.63,
+          "median_length": 30,
+          "std_dev": 25.51,
+          "min_length": 3,
+          "max_length": 203,
+          "distribution": {
+            "0-10": 103,
+            "11-20": 285,
+            "21-30": 223,
+            "31-40": 209,
+            "41-50": 116,
+            "51+": 249
+          }
+        },
+        "vocabulary": {
+          "total_words": 36449,
+          "unique_words": 5094,
+          "type_token_ratio": 0.1398,
+          "lexical_diversity": 26.6819
+        },
+        "readability": {
+          "flesch_reading_ease": 52.43,
+          "flesch_kincaid_grade": 12.7,
+          "gunning_fog": 12.92
+        },
+        "word_length": {
+          "average": 4.72,
+          "distribution": {
+            "1-3": 15940,
+            "4-6": 11617,
+            "7-9": 6283,
+            "10+": 2609
+          }
+        },
+        "punctuation": {
+          "period": 1249,
+          "exclamation": 31,
+          "question": 106,
+          "semicolon": 124,
+          "colon": 285,
+          "comma": 2514,
+          "dash": 359,
+          "parentheses": 262,
+          "quotes": 326,
+          "density_per_1000": 144.2
+        }
+      },
+      "ngrams": {
+        "bigrams": [
+          {
+            "phrase": "the world",
+            "count": 50
+          },
+          {
+            "phrase": "upon the",
+            "count": 45
+          },
+          {
+            "phrase": "for example",
+            "count": 27
+          },
+          {
+            "phrase": "the whole",
+            "count": 24
+          },
+          {
+            "phrase": "the individual",
+            "count": 24
+          },
+          {
+            "phrase": "the first",
+            "count": 21
+          },
+          {
+            "phrase": "the case",
+            "count": 20
+          },
+          {
+            "phrase": "even the",
+            "count": 18
+          },
+          {
+            "phrase": "the christian",
+            "count": 17
+          },
+          {
+            "phrase": "nature the",
+            "count": 16
+          },
+          {
+            "phrase": "the soul",
+            "count": 16
+          },
+          {
+            "phrase": "and hence",
+            "count": 15
+          },
+          {
+            "phrase": "good and",
+            "count": 14
+          },
+          {
+            "phrase": "the present",
+            "count": 14
+          },
+          {
+            "phrase": "the latter",
+            "count": 14
+          },
+          {
+            "phrase": "the general",
+            "count": 13
+          },
+          {
+            "phrase": "the great",
+            "count": 13
+          },
+          {
+            "phrase": "the spirit",
+            "count": 13
+          },
+          {
+            "phrase": "the fact",
+            "count": 13
+          },
+          {
+            "phrase": "the highest",
+            "count": 13
+          },
+          {
+            "phrase": "the moral",
+            "count": 12
+          },
+          {
+            "phrase": "the free",
+            "count": 12
+          },
+          {
+            "phrase": "the sense",
+            "count": 12
+          },
+          {
+            "phrase": "fact that",
+            "count": 12
+          },
+          {
+            "phrase": "that man",
+            "count": 12
+          },
+          {
+            "phrase": "one the",
+            "count": 12
+          },
+          {
+            "phrase": "the idea",
+            "count": 12
+          },
+          {
+            "phrase": "the domain",
+            "count": 12
+          },
+          {
+            "phrase": "the state",
+            "count": 12
+          },
+          {
+            "phrase": "the old",
+            "count": 11
+          }
+        ],
+        "trigrams": [
+          {
+            "phrase": "the fact that",
+            "count": 11
+          },
+          {
+            "phrase": "the other hand",
+            "count": 10
+          },
+          {
+            "phrase": "for example the",
+            "count": 8
+          },
+          {
+            "phrase": "the same time",
+            "count": 7
+          },
+          {
+            "phrase": "the free spirit",
+            "count": 7
+          },
+          {
+            "phrase": "good and evil",
+            "count": 6
+          },
+          {
+            "phrase": "the world and",
+            "count": 6
+          },
+          {
+            "phrase": "good and bad",
+            "count": 6
+          },
+          {
+            "phrase": "the moral feelings",
+            "count": 5
+          },
+          {
+            "phrase": "all these things",
+            "count": 5
+          },
+          {
+            "phrase": "freedom the will",
+            "count": 5
+          },
+          {
+            "phrase": "the value life",
+            "count": 5
+          },
+          {
+            "phrase": "and the like",
+            "count": 5
+          },
+          {
+            "phrase": "human all too",
+            "count": 4
+          },
+          {
+            "phrase": "all too human",
+            "count": 4
+          },
+          {
+            "phrase": "for the first",
+            "count": 4
+          },
+          {
+            "phrase": "the first time",
+            "count": 4
+          },
+          {
+            "phrase": "from the standpoint",
+            "count": 4
+          },
+          {
+            "phrase": "the present state",
+            "count": 4
+          },
+          {
+            "phrase": "light and color",
+            "count": 4
+          },
+          {
+            "phrase": "must have been",
+            "count": 4
+          },
+          {
+            "phrase": "upon the foundation",
+            "count": 4
+          },
+          {
+            "phrase": "would have been",
+            "count": 4
+          },
+          {
+            "phrase": "under the influence",
+            "count": 4
+          },
+          {
+            "phrase": "for instance the",
+            "count": 4
+          },
+          {
+            "phrase": "fact that the",
+            "count": 4
+          },
+          {
+            "phrase": "the same way",
+            "count": 4
+          },
+          {
+            "phrase": "the domain the",
+            "count": 4
+          },
+          {
+            "phrase": "the extent that",
+            "count": 4
+          },
+          {
+            "phrase": "the one who",
+            "count": 4
+          }
+        ]
+      },
+      "key_concepts": [
+        {
+          "term": "perspectivism",
+          "count": 4,
+          "variants": [
+            "perspective"
+          ]
+        },
+        {
+          "term": "ressentiment",
+          "count": 1,
+          "variants": [
+            "resentment"
+          ]
+        },
+        {
+          "term": "dionysian",
+          "count": 1,
+          "variants": [
+            "Dionysos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the_antichrist",
+      "title": "The Antichrist",
+      "filename": "Nietzsche_The Antichrist.txt",
+      "word_count": 32713,
+      "unique_words": 4775,
+      "bag_of_words": {
+        "top_100": [
+          {
+            "word": "one",
+            "count": 195
+          },
+          {
+            "word": "god",
+            "count": 168
+          },
+          {
+            "word": "man",
+            "count": 126
+          },
+          {
+            "word": "christianity",
+            "count": 109
+          },
+          {
+            "word": "every",
+            "count": 99
+          },
+          {
+            "word": "upon",
+            "count": 92
+          },
+          {
+            "word": "christian",
+            "count": 92
+          },
+          {
+            "word": "even",
+            "count": 90
+          },
+          {
+            "word": "life",
+            "count": 84
+          },
+          {
+            "word": "world",
+            "count": 83
+          },
+          {
+            "word": "things",
+            "count": 65
+          },
+          {
+            "word": "whole",
+            "count": 62
+          },
+          {
+            "word": "great",
+            "count": 60
+          },
+          {
+            "word": "must",
+            "count": 59
+          },
+          {
+            "word": "truth",
+            "count": 59
+          },
+          {
+            "word": "sort",
+            "count": 56
+          },
+          {
+            "word": "men",
+            "count": 56
+          },
+          {
+            "word": "would",
+            "count": 53
+          },
+          {
+            "word": "power",
+            "count": 48
+          },
+          {
+            "word": "instinct",
+            "count": 48
+          },
+          {
+            "word": "fact",
+            "count": 47
+          },
+          {
+            "word": "nietzsche",
+            "count": 43
+          },
+          {
+            "word": "priest",
+            "count": 42
+          },
+          {
+            "word": "first",
+            "count": 41
+          },
+          {
+            "word": "say",
+            "count": 41
+          },
+          {
+            "word": "faith",
+            "count": 40
+          },
+          {
+            "word": "merely",
+            "count": 40
+          },
+          {
+            "word": "everything",
+            "count": 40
+          },
+          {
+            "word": "made",
+            "count": 37
+          },
+          {
+            "word": "means",
+            "count": 37
+          },
+          {
+            "word": "people",
+            "count": 37
+          },
+          {
+            "word": "may",
+            "count": 36
+          },
+          {
+            "word": "true",
+            "count": 36
+          },
+          {
+            "word": "make",
+            "count": 36
+          },
+          {
+            "word": "order",
+            "count": 36
+          },
+          {
+            "word": "instincts",
+            "count": 36
+          },
+          {
+            "word": "german",
+            "count": 35
+          },
+          {
+            "word": "death",
+            "count": 35
+          },
+          {
+            "word": "way",
+            "count": 35
+          },
+          {
+            "word": "form",
+            "count": 33
+          },
+          {
+            "word": "good",
+            "count": 33
+          },
+          {
+            "word": "end",
+            "count": 33
+          },
+          {
+            "word": "war",
+            "count": 33
+          },
+          {
+            "word": "church",
+            "count": 33
+          },
+          {
+            "word": "concept",
+            "count": 33
+          },
+          {
+            "word": "reality",
+            "count": 33
+          },
+          {
+            "word": "ever",
+            "count": 32
+          },
+          {
+            "word": "also",
+            "count": 32
+          },
+          {
+            "word": "time",
+            "count": 31
+          },
+          {
+            "word": "word",
+            "count": 31
+          },
+          {
+            "word": "thing",
+            "count": 30
+          },
+          {
+            "word": "long",
+            "count": 30
+          },
+          {
+            "word": "necessary",
+            "count": 30
+          },
+          {
+            "word": "nothing",
+            "count": 30
+          },
+          {
+            "word": "history",
+            "count": 30
+          },
+          {
+            "word": "makes",
+            "count": 29
+          },
+          {
+            "word": "simply",
+            "count": 29
+          },
+          {
+            "word": "know",
+            "count": 29
+          },
+          {
+            "word": "gospels",
+            "count": 29
+          },
+          {
+            "word": "new",
+            "count": 28
+          },
+          {
+            "word": "always",
+            "count": 28
+          },
+          {
+            "word": "much",
+            "count": 28
+          },
+          {
+            "word": "mankind",
+            "count": 28
+          },
+          {
+            "word": "values",
+            "count": 27
+          },
+          {
+            "word": "paul",
+            "count": 27
+          },
+          {
+            "word": "like",
+            "count": 27
+          },
+          {
+            "word": "natural",
+            "count": 27
+          },
+          {
+            "word": "spirit",
+            "count": 26
+          },
+          {
+            "word": "see",
+            "count": 26
+          },
+          {
+            "word": "almost",
+            "count": 25
+          },
+          {
+            "word": "type",
+            "count": 25
+          },
+          {
+            "word": "enough",
+            "count": 25
+          },
+          {
+            "word": "lie",
+            "count": 25
+          },
+          {
+            "word": "mere",
+            "count": 24
+          },
+          {
+            "word": "among",
+            "count": 24
+          },
+          {
+            "word": "could",
+            "count": 24
+          },
+          {
+            "word": "possible",
+            "count": 24
+          },
+          {
+            "word": "actually",
+            "count": 24
+          },
+          {
+            "word": "idea",
+            "count": 24
+          },
+          {
+            "word": "nature",
+            "count": 24
+          },
+          {
+            "word": "becomes",
+            "count": 24
+          },
+          {
+            "word": "free",
+            "count": 23
+          },
+          {
+            "word": "let",
+            "count": 23
+          },
+          {
+            "word": "intellectual",
+            "count": 23
+          },
+          {
+            "word": "already",
+            "count": 23
+          },
+          {
+            "word": "many",
+            "count": 23
+          },
+          {
+            "word": "today",
+            "count": 23
+          },
+          {
+            "word": "reason",
+            "count": 22
+          },
+          {
+            "word": "put",
+            "count": 22
+          },
+          {
+            "word": "shall",
+            "count": 22
+          },
+          {
+            "word": "holy",
+            "count": 22
+          },
+          {
+            "word": "still",
+            "count": 22
+          },
+          {
+            "word": "old",
+            "count": 22
+          },
+          {
+            "word": "soul",
+            "count": 22
+          },
+          {
+            "word": "concepts",
+            "count": 22
+          },
+          {
+            "word": "longer",
+            "count": 22
+          },
+          {
+            "word": "kingdom",
+            "count": 22
+          },
+          {
+            "word": "work",
+            "count": 21
+          },
+          {
+            "word": "two",
+            "count": 21
+          },
+          {
+            "word": "contrary",
+            "count": 21
+          }
+        ],
+        "total_vocabulary": 4645,
+        "total_words_analyzed": 15247
+      },
+      "sentiment": {
+        "vader": {
+          "compound": 0.6435,
+          "positive": 0.146,
+          "negative": 0.1108,
+          "neutral": 0.7433
+        }
+      },
+      "style_metrics": {
+        "sentences": {
+          "count": 1164,
+          "avg_length": 35.23,
+          "median_length": 29.0,
+          "std_dev": 28.47,
+          "min_length": 2,
+          "max_length": 243,
+          "distribution": {
+            "0-10": 168,
+            "11-20": 228,
+            "21-30": 221,
+            "31-40": 183,
+            "41-50": 112,
+            "51+": 252
+          }
+        },
+        "vocabulary": {
+          "total_words": 32713,
+          "unique_words": 4775,
+          "type_token_ratio": 0.146,
+          "lexical_diversity": 26.4006
+        },
+        "readability": {
+          "flesch_reading_ease": 55.47,
+          "flesch_kincaid_grade": 11.5,
+          "gunning_fog": 11.84
+        },
+        "word_length": {
+          "average": 4.54,
+          "distribution": {
+            "1-3": 15080,
+            "4-6": 10577,
+            "7-9": 5047,
+            "10+": 2009
+          }
+        },
+        "punctuation": {
+          "period": 2046,
+          "exclamation": 140,
+          "question": 99,
+          "semicolon": 291,
+          "colon": 301,
+          "comma": 2508,
+          "dash": 695,
+          "parentheses": 170,
+          "quotes": 1201,
+          "density_per_1000": 227.76
+        }
+      },
+      "ngrams": {
+        "bigrams": [
+          {
+            "phrase": "the world",
+            "count": 53
+          },
+          {
+            "phrase": "the whole",
+            "count": 53
+          },
+          {
+            "phrase": "upon the",
+            "count": 35
+          },
+          {
+            "phrase": "the christian",
+            "count": 31
+          },
+          {
+            "phrase": "the priest",
+            "count": 29
+          },
+          {
+            "phrase": "the gospels",
+            "count": 27
+          },
+          {
+            "phrase": "the truth",
+            "count": 26
+          },
+          {
+            "phrase": "the first",
+            "count": 25
+          },
+          {
+            "phrase": "the church",
+            "count": 24
+          },
+          {
+            "phrase": "the fact",
+            "count": 23
+          },
+          {
+            "phrase": "even the",
+            "count": 23
+          },
+          {
+            "phrase": "god the",
+            "count": 22
+          },
+          {
+            "phrase": "fact that",
+            "count": 22
+          },
+          {
+            "phrase": "the concept",
+            "count": 22
+          },
+          {
+            "phrase": "the contrary",
+            "count": 19
+          },
+          {
+            "phrase": "the antichrist",
+            "count": 16
+          },
+          {
+            "phrase": "the last",
+            "count": 15
+          },
+          {
+            "phrase": "the god",
+            "count": 15
+          },
+          {
+            "phrase": "the great",
+            "count": 15
+          },
+          {
+            "phrase": "the jews",
+            "count": 15
+          },
+          {
+            "phrase": "kingdom god",
+            "count": 15
+          },
+          {
+            "phrase": "the cross",
+            "count": 15
+          },
+          {
+            "phrase": "things the",
+            "count": 14
+          },
+          {
+            "phrase": "life the",
+            "count": 14
+          },
+          {
+            "phrase": "would have",
+            "count": 14
+          },
+          {
+            "phrase": "the old",
+            "count": 14
+          },
+          {
+            "phrase": "the kingdom",
+            "count": 14
+          },
+          {
+            "phrase": "the one",
+            "count": 13
+          },
+          {
+            "phrase": "the man",
+            "count": 13
+          },
+          {
+            "phrase": "which say",
+            "count": 13
+          }
+        ],
+        "trigrams": [
+          {
+            "phrase": "the fact that",
+            "count": 19
+          },
+          {
+            "phrase": "the kingdom god",
+            "count": 12
+          },
+          {
+            "phrase": "the will power",
+            "count": 8
+          },
+          {
+            "phrase": "the world the",
+            "count": 8
+          },
+          {
+            "phrase": "the will god",
+            "count": 8
+          },
+          {
+            "phrase": "would have been",
+            "count": 6
+          },
+          {
+            "phrase": "fact that the",
+            "count": 6
+          },
+          {
+            "phrase": "for thousands years",
+            "count": 6
+          },
+          {
+            "phrase": "for example the",
+            "count": 6
+          },
+          {
+            "phrase": "god and the",
+            "count": 6
+          },
+          {
+            "phrase": "the history the",
+            "count": 6
+          },
+          {
+            "phrase": "moral order the",
+            "count": 6
+          },
+          {
+            "phrase": "order the world",
+            "count": 6
+          },
+          {
+            "phrase": "things the world",
+            "count": 6
+          },
+          {
+            "phrase": "the death the",
+            "count": 5
+          },
+          {
+            "phrase": "the concept the",
+            "count": 5
+          },
+          {
+            "phrase": "the concept god",
+            "count": 5
+          },
+          {
+            "phrase": "the christian church",
+            "count": 5
+          },
+          {
+            "phrase": "the old god",
+            "count": 5
+          },
+          {
+            "phrase": "the gospels the",
+            "count": 5
+          },
+          {
+            "phrase": "the law the",
+            "count": 5
+          },
+          {
+            "phrase": "all these things",
+            "count": 5
+          },
+          {
+            "phrase": "the wisdom this",
+            "count": 5
+          },
+          {
+            "phrase": "wisdom this world",
+            "count": 5
+          },
+          {
+            "phrase": "the new testament",
+            "count": 5
+          },
+          {
+            "phrase": "the code manu",
+            "count": 5
+          },
+          {
+            "phrase": "two thousand years",
+            "count": 4
+          },
+          {
+            "phrase": "from the god",
+            "count": 4
+          },
+          {
+            "phrase": "the assumption that",
+            "count": 4
+          },
+          {
+            "phrase": "the other hand",
+            "count": 4
+          }
+        ]
+      },
+      "key_concepts": [
+        {
+          "term": "will to power",
+          "count": 5,
+          "variants": [
+            "Will to Power",
+            "will to power"
+          ]
+        },
+        {
+          "term": "genealogy",
+          "count": 4,
+          "variants": [
+            "Genealogy"
+          ]
+        },
+        {
+          "term": "eternal recurrence",
+          "count": 3,
+          "variants": [
+            "Eternal Recurrence",
+            "eternal\nrecurrence",
+            "eternal recurrence"
+          ]
+        },
+        {
+          "term": "nihilism",
+          "count": 3,
+          "variants": [
+            "nihilism",
+            "Nihilist"
+          ]
+        },
+        {
+          "term": "übermensch",
+          "count": 2,
+          "variants": [
+            "superman"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the_birth_of_tragedy",
+      "title": "The Birth of Tragedy",
+      "filename": "Nietzsche_The Birth of Tragedy.txt",
+      "word_count": 53129,
+      "unique_words": 6665,
+      "bag_of_words": {
+        "top_100": [
+          {
+            "word": "music",
+            "count": 192
+          },
+          {
+            "word": "art",
+            "count": 181
+          },
+          {
+            "word": "one",
+            "count": 174
+          },
+          {
+            "word": "dionysian",
+            "count": 163
+          },
+          {
+            "word": "world",
+            "count": 160
+          },
+          {
+            "word": "tragedy",
+            "count": 156
+          },
+          {
+            "word": "man",
+            "count": 142
+          },
+          {
+            "word": "must",
+            "count": 124
+          },
+          {
+            "word": "even",
+            "count": 114
+          },
+          {
+            "word": "life",
+            "count": 104
+          },
+          {
+            "word": "nature",
+            "count": 104
+          },
+          {
+            "word": "apollonian",
+            "count": 99
+          },
+          {
+            "word": "time",
+            "count": 93
+          },
+          {
+            "word": "also",
+            "count": 91
+          },
+          {
+            "word": "first",
+            "count": 89
+          },
+          {
+            "word": "tragic",
+            "count": 87
+          },
+          {
+            "word": "greek",
+            "count": 84
+          },
+          {
+            "word": "could",
+            "count": 80
+          },
+          {
+            "word": "culture",
+            "count": 78
+          },
+          {
+            "word": "myth",
+            "count": 75
+          },
+          {
+            "word": "existence",
+            "count": 74
+          },
+          {
+            "word": "chorus",
+            "count": 73
+          },
+          {
+            "word": "new",
+            "count": 71
+          },
+          {
+            "word": "may",
+            "count": 70
+          },
+          {
+            "word": "would",
+            "count": 67
+          },
+          {
+            "word": "however",
+            "count": 67
+          },
+          {
+            "word": "things",
+            "count": 65
+          },
+          {
+            "word": "still",
+            "count": 63
+          },
+          {
+            "word": "appearance",
+            "count": 61
+          },
+          {
+            "word": "like",
+            "count": 60
+          },
+          {
+            "word": "form",
+            "count": 60
+          },
+          {
+            "word": "euripides",
+            "count": 58
+          },
+          {
+            "word": "artistic",
+            "count": 56
+          },
+          {
+            "word": "greeks",
+            "count": 56
+          },
+          {
+            "word": "socrates",
+            "count": 56
+          },
+          {
+            "word": "every",
+            "count": 55
+          },
+          {
+            "word": "order",
+            "count": 55
+          },
+          {
+            "word": "artist",
+            "count": 55
+          },
+          {
+            "word": "phenomenon",
+            "count": 55
+          },
+          {
+            "word": "spirit",
+            "count": 53
+          },
+          {
+            "word": "highest",
+            "count": 53
+          },
+          {
+            "word": "perhaps",
+            "count": 51
+          },
+          {
+            "word": "without",
+            "count": 51
+          },
+          {
+            "word": "reality",
+            "count": 50
+          },
+          {
+            "word": "thus",
+            "count": 48
+          },
+          {
+            "word": "knowledge",
+            "count": 48
+          },
+          {
+            "word": "true",
+            "count": 48
+          },
+          {
+            "word": "upon",
+            "count": 47
+          },
+          {
+            "word": "god",
+            "count": 47
+          },
+          {
+            "word": "always",
+            "count": 46
+          },
+          {
+            "word": "view",
+            "count": 46
+          },
+          {
+            "word": "let",
+            "count": 45
+          },
+          {
+            "word": "science",
+            "count": 44
+          },
+          {
+            "word": "power",
+            "count": 43
+          },
+          {
+            "word": "people",
+            "count": 42
+          },
+          {
+            "word": "whole",
+            "count": 42
+          },
+          {
+            "word": "means",
+            "count": 42
+          },
+          {
+            "word": "poet",
+            "count": 42
+          },
+          {
+            "word": "joy",
+            "count": 41
+          },
+          {
+            "word": "therefore",
+            "count": 41
+          },
+          {
+            "word": "two",
+            "count": 41
+          },
+          {
+            "word": "indeed",
+            "count": 41
+          },
+          {
+            "word": "dionysus",
+            "count": 41
+          },
+          {
+            "word": "present",
+            "count": 39
+          },
+          {
+            "word": "eternal",
+            "count": 39
+          },
+          {
+            "word": "sense",
+            "count": 38
+          },
+          {
+            "word": "general",
+            "count": 38
+          },
+          {
+            "word": "apollo",
+            "count": 38
+          },
+          {
+            "word": "entire",
+            "count": 38
+          },
+          {
+            "word": "wisdom",
+            "count": 38
+          },
+          {
+            "word": "much",
+            "count": 37
+          },
+          {
+            "word": "already",
+            "count": 37
+          },
+          {
+            "word": "hand",
+            "count": 37
+          },
+          {
+            "word": "say",
+            "count": 36
+          },
+          {
+            "word": "something",
+            "count": 36
+          },
+          {
+            "word": "individual",
+            "count": 36
+          },
+          {
+            "word": "æsthetic",
+            "count": 36
+          },
+          {
+            "word": "regard",
+            "count": 35
+          },
+          {
+            "word": "german",
+            "count": 35
+          },
+          {
+            "word": "great",
+            "count": 35
+          },
+          {
+            "word": "according",
+            "count": 35
+          },
+          {
+            "word": "able",
+            "count": 35
+          },
+          {
+            "word": "drama",
+            "count": 35
+          },
+          {
+            "word": "fact",
+            "count": 34
+          },
+          {
+            "word": "expression",
+            "count": 34
+          },
+          {
+            "word": "possible",
+            "count": 34
+          },
+          {
+            "word": "spectator",
+            "count": 34
+          },
+          {
+            "word": "picture",
+            "count": 34
+          },
+          {
+            "word": "brother",
+            "count": 33
+          },
+          {
+            "word": "ever",
+            "count": 33
+          },
+          {
+            "word": "phenomena",
+            "count": 33
+          },
+          {
+            "word": "hellenic",
+            "count": 33
+          },
+          {
+            "word": "primordial",
+            "count": 33
+          },
+          {
+            "word": "among",
+            "count": 32
+          },
+          {
+            "word": "men",
+            "count": 32
+          },
+          {
+            "word": "poetry",
+            "count": 32
+          },
+          {
+            "word": "character",
+            "count": 32
+          },
+          {
+            "word": "genius",
+            "count": 32
+          },
+          {
+            "word": "book",
+            "count": 32
+          },
+          {
+            "word": "hero",
+            "count": 32
+          }
+        ],
+        "total_vocabulary": 6522,
+        "total_words_analyzed": 25174
+      },
+      "sentiment": {
+        "vader": {
+          "compound": 0.7578,
+          "positive": 0.1337,
+          "negative": 0.0894,
+          "neutral": 0.777
+        }
+      },
+      "style_metrics": {
+        "sentences": {
+          "count": 1400,
+          "avg_length": 44.46,
+          "median_length": 40.0,
+          "std_dev": 31.18,
+          "min_length": 1,
+          "max_length": 235,
+          "distribution": {
+            "0-10": 152,
+            "11-20": 161,
+            "21-30": 200,
+            "31-40": 206,
+            "41-50": 211,
+            "51+": 470
+          }
+        },
+        "vocabulary": {
+          "total_words": 53129,
+          "unique_words": 6665,
+          "type_token_ratio": 0.1254,
+          "lexical_diversity": 28.9157
+        },
+        "readability": {
+          "flesch_reading_ease": 41.37,
+          "flesch_kincaid_grade": 16.9,
+          "gunning_fog": 17.14
+        },
+        "word_length": {
+          "average": 4.76,
+          "distribution": {
+            "1-3": 23311,
+            "4-6": 16582,
+            "7-9": 9329,
+            "10+": 3907
+          }
+        },
+        "punctuation": {
+          "period": 1328,
+          "exclamation": 104,
+          "question": 162,
+          "semicolon": 278,
+          "colon": 402,
+          "comma": 4368,
+          "dash": 369,
+          "parentheses": 86,
+          "quotes": 664,
+          "density_per_1000": 146.08
+        }
+      },
+      "ngrams": {
+        "bigrams": [
+          {
+            "phrase": "the dionysian",
+            "count": 90
+          },
+          {
+            "phrase": "the world",
+            "count": 74
+          },
+          {
+            "phrase": "the apollonian",
+            "count": 58
+          },
+          {
+            "phrase": "the greeks",
+            "count": 49
+          },
+          {
+            "phrase": "the first",
+            "count": 46
+          },
+          {
+            "phrase": "the tragic",
+            "count": 38
+          },
+          {
+            "phrase": "the highest",
+            "count": 36
+          },
+          {
+            "phrase": "the chorus",
+            "count": 35
+          },
+          {
+            "phrase": "the greek",
+            "count": 30
+          },
+          {
+            "phrase": "the entire",
+            "count": 28
+          },
+          {
+            "phrase": "world the",
+            "count": 27
+          },
+          {
+            "phrase": "even the",
+            "count": 26
+          },
+          {
+            "phrase": "the whole",
+            "count": 25
+          },
+          {
+            "phrase": "same time",
+            "count": 25
+          },
+          {
+            "phrase": "the new",
+            "count": 25
+          },
+          {
+            "phrase": "other hand",
+            "count": 24
+          },
+          {
+            "phrase": "the hellenic",
+            "count": 24
+          },
+          {
+            "phrase": "the true",
+            "count": 24
+          },
+          {
+            "phrase": "art the",
+            "count": 23
+          },
+          {
+            "phrase": "music the",
+            "count": 23
+          },
+          {
+            "phrase": "also the",
+            "count": 22
+          },
+          {
+            "phrase": "the myth",
+            "count": 22
+          },
+          {
+            "phrase": "the present",
+            "count": 21
+          },
+          {
+            "phrase": "tragedy the",
+            "count": 21
+          },
+          {
+            "phrase": "the old",
+            "count": 20
+          },
+          {
+            "phrase": "the german",
+            "count": 20
+          },
+          {
+            "phrase": "art and",
+            "count": 20
+          },
+          {
+            "phrase": "the spirit",
+            "count": 20
+          },
+          {
+            "phrase": "chorus the",
+            "count": 20
+          },
+          {
+            "phrase": "time the",
+            "count": 19
+          }
+        ],
+        "trigrams": [
+          {
+            "phrase": "the same time",
+            "count": 25
+          },
+          {
+            "phrase": "the other hand",
+            "count": 24
+          },
+          {
+            "phrase": "the world the",
+            "count": 15
+          },
+          {
+            "phrase": "the fact that",
+            "count": 11
+          },
+          {
+            "phrase": "the apollonian and",
+            "count": 11
+          },
+          {
+            "phrase": "the german spirit",
+            "count": 9
+          },
+          {
+            "phrase": "the chorus the",
+            "count": 9
+          },
+          {
+            "phrase": "for the first",
+            "count": 8
+          },
+          {
+            "phrase": "the first time",
+            "count": 8
+          },
+          {
+            "phrase": "the spirit music",
+            "count": 8
+          },
+          {
+            "phrase": "and the world",
+            "count": 8
+          },
+          {
+            "phrase": "the subject the",
+            "count": 7
+          },
+          {
+            "phrase": "the dionysian and",
+            "count": 7
+          },
+          {
+            "phrase": "the tragic chorus",
+            "count": 7
+          },
+          {
+            "phrase": "apollonian and the",
+            "count": 7
+          },
+          {
+            "phrase": "and the dionysian",
+            "count": 7
+          },
+          {
+            "phrase": "the language the",
+            "count": 7
+          },
+          {
+            "phrase": "the satyric chorus",
+            "count": 7
+          },
+          {
+            "phrase": "the birth tragedy",
+            "count": 6
+          },
+          {
+            "phrase": "the world that",
+            "count": 6
+          },
+          {
+            "phrase": "would have been",
+            "count": 6
+          },
+          {
+            "phrase": "same time the",
+            "count": 6
+          },
+          {
+            "phrase": "als wille und",
+            "count": 6
+          },
+          {
+            "phrase": "wille und vorstellung",
+            "count": 6
+          },
+          {
+            "phrase": "together with the",
+            "count": 6
+          },
+          {
+            "phrase": "and general the",
+            "count": 6
+          },
+          {
+            "phrase": "the primordial unity",
+            "count": 6
+          },
+          {
+            "phrase": "the entire world",
+            "count": 6
+          },
+          {
+            "phrase": "tragedy and the",
+            "count": 6
+          },
+          {
+            "phrase": "the tragic hero",
+            "count": 6
+          }
+        ]
+      },
+      "key_concepts": [
+        {
+          "term": "dionysian",
+          "count": 179,
+          "variants": [
+            "Dionysian",
+            "Dionysos"
+          ]
+        },
+        {
+          "term": "apollonian",
+          "count": 145,
+          "variants": [
+            "Apollo",
+            "Apollonian"
+          ]
+        },
+        {
+          "term": "eternal recurrence",
+          "count": 1,
+          "variants": [
+            "eternal recurrence"
+          ]
+        },
+        {
+          "term": "ressentiment",
+          "count": 1,
+          "variants": [
+            "resentment"
+          ]
+        },
+        {
+          "term": "nihilism",
+          "count": 1,
+          "variants": [
+            "nihilism"
+          ]
+        },
+        {
+          "term": "perspectivism",
+          "count": 1,
+          "variants": [
+            "perspective"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the_genealogy_of_morals",
+      "title": "The Genealogy of Morals",
+      "filename": "Nietzsche_The Genealogy of Morals.txt",
+      "word_count": 54174,
+      "unique_words": 6766,
+      "bag_of_words": {
+        "top_100": [
+          {
+            "word": "one",
+            "count": 235
+          },
+          {
+            "word": "man",
+            "count": 232
+          },
+          {
+            "word": "even",
+            "count": 149
+          },
+          {
+            "word": "ideal",
+            "count": 115
+          },
+          {
+            "word": "good",
+            "count": 113
+          },
+          {
+            "word": "life",
+            "count": 107
+          },
+          {
+            "word": "time",
+            "count": 107
+          },
+          {
+            "word": "every",
+            "count": 107
+          },
+          {
+            "word": "ascetic",
+            "count": 102
+          },
+          {
+            "word": "world",
+            "count": 97
+          },
+          {
+            "word": "fact",
+            "count": 93
+          },
+          {
+            "word": "would",
+            "count": 89
+          },
+          {
+            "word": "like",
+            "count": 88
+          },
+          {
+            "word": "much",
+            "count": 88
+          },
+          {
+            "word": "must",
+            "count": 83
+          },
+          {
+            "word": "power",
+            "count": 78
+          },
+          {
+            "word": "first",
+            "count": 77
+          },
+          {
+            "word": "also",
+            "count": 71
+          },
+          {
+            "word": "god",
+            "count": 69
+          },
+          {
+            "word": "great",
+            "count": 68
+          },
+          {
+            "word": "whole",
+            "count": 66
+          },
+          {
+            "word": "new",
+            "count": 65
+          },
+          {
+            "word": "certain",
+            "count": 64
+          },
+          {
+            "word": "perhaps",
+            "count": 64
+          },
+          {
+            "word": "always",
+            "count": 62
+          },
+          {
+            "word": "still",
+            "count": 62
+          },
+          {
+            "word": "men",
+            "count": 62
+          },
+          {
+            "word": "point",
+            "count": 61
+          },
+          {
+            "word": "bad",
+            "count": 59
+          },
+          {
+            "word": "something",
+            "count": 59
+          },
+          {
+            "word": "kind",
+            "count": 59
+          },
+          {
+            "word": "really",
+            "count": 58
+          },
+          {
+            "word": "enough",
+            "count": 58
+          },
+          {
+            "word": "punishment",
+            "count": 56
+          },
+          {
+            "word": "conscience",
+            "count": 55
+          },
+          {
+            "word": "history",
+            "count": 55
+          },
+          {
+            "word": "let",
+            "count": 55
+          },
+          {
+            "word": "case",
+            "count": 54
+          },
+          {
+            "word": "means",
+            "count": 53
+          },
+          {
+            "word": "without",
+            "count": 50
+          },
+          {
+            "word": "say",
+            "count": 49
+          },
+          {
+            "word": "meaning",
+            "count": 48
+          },
+          {
+            "word": "real",
+            "count": 48
+          },
+          {
+            "word": "suffering",
+            "count": 48
+          },
+          {
+            "word": "nothing",
+            "count": 46
+          },
+          {
+            "word": "present",
+            "count": 46
+          },
+          {
+            "word": "way",
+            "count": 46
+          },
+          {
+            "word": "rate",
+            "count": 46
+          },
+          {
+            "word": "already",
+            "count": 45
+          },
+          {
+            "word": "truth",
+            "count": 45
+          },
+          {
+            "word": "existence",
+            "count": 45
+          },
+          {
+            "word": "reason",
+            "count": 44
+          },
+          {
+            "word": "far",
+            "count": 44
+          },
+          {
+            "word": "long",
+            "count": 43
+          },
+          {
+            "word": "origin",
+            "count": 43
+          },
+          {
+            "word": "could",
+            "count": 43
+          },
+          {
+            "word": "may",
+            "count": 43
+          },
+          {
+            "word": "science",
+            "count": 43
+          },
+          {
+            "word": "animal",
+            "count": 43
+          },
+          {
+            "word": "evil",
+            "count": 42
+          },
+          {
+            "word": "never",
+            "count": 42
+          },
+          {
+            "word": "come",
+            "count": 42
+          },
+          {
+            "word": "problem",
+            "count": 42
+          },
+          {
+            "word": "end",
+            "count": 42
+          },
+          {
+            "word": "idea",
+            "count": 42
+          },
+          {
+            "word": "revenge",
+            "count": 42
+          },
+          {
+            "word": "morality",
+            "count": 41
+          },
+          {
+            "word": "little",
+            "count": 41
+          },
+          {
+            "word": "consciousness",
+            "count": 41
+          },
+          {
+            "word": "everything",
+            "count": 41
+          },
+          {
+            "word": "quite",
+            "count": 40
+          },
+          {
+            "word": "human",
+            "count": 40
+          },
+          {
+            "word": "word",
+            "count": 40
+          },
+          {
+            "word": "yet",
+            "count": 39
+          },
+          {
+            "word": "values",
+            "count": 38
+          },
+          {
+            "word": "value",
+            "count": 38
+          },
+          {
+            "word": "doubt",
+            "count": 38
+          },
+          {
+            "word": "aristocratic",
+            "count": 38
+          },
+          {
+            "word": "sick",
+            "count": 38
+          },
+          {
+            "word": "things",
+            "count": 37
+          },
+          {
+            "word": "nowadays",
+            "count": 37
+          },
+          {
+            "word": "form",
+            "count": 36
+          },
+          {
+            "word": "soul",
+            "count": 36
+          },
+          {
+            "word": "consequently",
+            "count": 36
+          },
+          {
+            "word": "become",
+            "count": 36
+          },
+          {
+            "word": "german",
+            "count": 36
+          },
+          {
+            "word": "question",
+            "count": 35
+          },
+          {
+            "word": "though",
+            "count": 35
+          },
+          {
+            "word": "order",
+            "count": 35
+          },
+          {
+            "word": "old",
+            "count": 35
+          },
+          {
+            "word": "make",
+            "count": 35
+          },
+          {
+            "word": "strong",
+            "count": 35
+          },
+          {
+            "word": "modern",
+            "count": 34
+          },
+          {
+            "word": "sense",
+            "count": 34
+          },
+          {
+            "word": "race",
+            "count": 34
+          },
+          {
+            "word": "wish",
+            "count": 34
+          },
+          {
+            "word": "priest",
+            "count": 34
+          },
+          {
+            "word": "well",
+            "count": 33
+          },
+          {
+            "word": "made",
+            "count": 33
+          },
+          {
+            "word": "nature",
+            "count": 33
+          }
+        ],
+        "total_vocabulary": 6611,
+        "total_words_analyzed": 25020
+      },
+      "sentiment": {
+        "vader": {
+          "compound": 0.3043,
+          "positive": 0.1463,
+          "negative": 0.1152,
+          "neutral": 0.7384
+        }
+      },
+      "style_metrics": {
+        "sentences": {
+          "count": 1600,
+          "avg_length": 41.62,
+          "median_length": 32.0,
+          "std_dev": 37.88,
+          "min_length": 2,
+          "max_length": 305,
+          "distribution": {
+            "0-10": 331,
+            "11-20": 255,
+            "21-30": 172,
+            "31-40": 184,
+            "41-50": 150,
+            "51+": 508
+          }
+        },
+        "vocabulary": {
+          "total_words": 54174,
+          "unique_words": 6766,
+          "type_token_ratio": 0.1249,
+          "lexical_diversity": 29.0694
+        },
+        "readability": {
+          "flesch_reading_ease": 43.19,
+          "flesch_kincaid_grade": 16.2,
+          "gunning_fog": 16.4
+        },
+        "word_length": {
+          "average": 4.64,
+          "distribution": {
+            "1-3": 23729,
+            "4-6": 18079,
+            "7-9": 8707,
+            "10+": 3659
+          }
+        },
+        "punctuation": {
+          "period": 1351,
+          "exclamation": 199,
+          "question": 280,
+          "semicolon": 465,
+          "colon": 327,
+          "comma": 5073,
+          "dash": 648,
+          "parentheses": 634,
+          "quotes": 1701,
+          "density_per_1000": 197.11
+        }
+      },
+      "ngrams": {
+        "bigrams": [
+          {
+            "phrase": "the ascetic",
+            "count": 78
+          },
+          {
+            "phrase": "the world",
+            "count": 62
+          },
+          {
+            "phrase": "ascetic ideal",
+            "count": 52
+          },
+          {
+            "phrase": "the whole",
+            "count": 46
+          },
+          {
+            "phrase": "any rate",
+            "count": 43
+          },
+          {
+            "phrase": "the present",
+            "count": 34
+          },
+          {
+            "phrase": "good and",
+            "count": 33
+          },
+          {
+            "phrase": "the case",
+            "count": 28
+          },
+          {
+            "phrase": "for instance",
+            "count": 28
+          },
+          {
+            "phrase": "the great",
+            "count": 27
+          },
+          {
+            "phrase": "the fact",
+            "count": 26
+          },
+          {
+            "phrase": "even the",
+            "count": 26
+          },
+          {
+            "phrase": "the origin",
+            "count": 25
+          },
+          {
+            "phrase": "the idea",
+            "count": 25
+          },
+          {
+            "phrase": "bad conscience",
+            "count": 24
+          },
+          {
+            "phrase": "man the",
+            "count": 24
+          },
+          {
+            "phrase": "the sick",
+            "count": 24
+          },
+          {
+            "phrase": "ascetic priest",
+            "count": 24
+          },
+          {
+            "phrase": "the man",
+            "count": 22
+          },
+          {
+            "phrase": "the meaning",
+            "count": 22
+          },
+          {
+            "phrase": "the contrary",
+            "count": 22
+          },
+          {
+            "phrase": "there doubt",
+            "count": 21
+          },
+          {
+            "phrase": "the consciousness",
+            "count": 21
+          },
+          {
+            "phrase": "the first",
+            "count": 20
+          },
+          {
+            "phrase": "point fact",
+            "count": 19
+          },
+          {
+            "phrase": "the real",
+            "count": 19
+          },
+          {
+            "phrase": "fact that",
+            "count": 19
+          },
+          {
+            "phrase": "the aristocratic",
+            "count": 18
+          },
+          {
+            "phrase": "god the",
+            "count": 18
+          },
+          {
+            "phrase": "the bad",
+            "count": 18
+          }
+        ],
+        "trigrams": [
+          {
+            "phrase": "the ascetic ideal",
+            "count": 48
+          },
+          {
+            "phrase": "the ascetic priest",
+            "count": 20
+          },
+          {
+            "phrase": "the fact that",
+            "count": 18
+          },
+          {
+            "phrase": "the bad conscience",
+            "count": 17
+          },
+          {
+            "phrase": "the other hand",
+            "count": 16
+          },
+          {
+            "phrase": "what the meaning",
+            "count": 12
+          },
+          {
+            "phrase": "good and evil",
+            "count": 11
+          },
+          {
+            "phrase": "the same time",
+            "count": 11
+          },
+          {
+            "phrase": "the world the",
+            "count": 11
+          },
+          {
+            "phrase": "there doubt about",
+            "count": 11
+          },
+          {
+            "phrase": "for long time",
+            "count": 11
+          },
+          {
+            "phrase": "good and bad",
+            "count": 9
+          },
+          {
+            "phrase": "the origin the",
+            "count": 9
+          },
+          {
+            "phrase": "any rate the",
+            "count": 8
+          },
+          {
+            "phrase": "the beginning the",
+            "count": 7
+          },
+          {
+            "phrase": "which the present",
+            "count": 7
+          },
+          {
+            "phrase": "from the standpoint",
+            "count": 7
+          },
+          {
+            "phrase": "the standpoint the",
+            "count": 7
+          },
+          {
+            "phrase": "one the most",
+            "count": 6
+          },
+          {
+            "phrase": "concerning the origin",
+            "count": 6
+          },
+          {
+            "phrase": "the contrary the",
+            "count": 6
+          },
+          {
+            "phrase": "all the world",
+            "count": 6
+          },
+          {
+            "phrase": "the good the",
+            "count": 6
+          },
+          {
+            "phrase": "the human race",
+            "count": 6
+          },
+          {
+            "phrase": "the world was",
+            "count": 6
+          },
+          {
+            "phrase": "the question the",
+            "count": 6
+          },
+          {
+            "phrase": "will for truth",
+            "count": 6
+          },
+          {
+            "phrase": "the meaning ascetic",
+            "count": 5
+          },
+          {
+            "phrase": "meaning ascetic ideals",
+            "count": 5
+          },
+          {
+            "phrase": "the problem the",
+            "count": 5
+          }
+        ]
+      },
+      "key_concepts": [
+        {
+          "term": "ressentiment",
+          "count": 19,
+          "variants": [
+            "resentment"
+          ]
+        },
+        {
+          "term": "genealogy",
+          "count": 7,
+          "variants": [
+            "genealogy",
+            "Genealogy",
+            "GENEALOGY"
+          ]
+        },
+        {
+          "term": "perspectivism",
+          "count": 7,
+          "variants": [
+            "perspective",
+            "perspectives"
+          ]
+        },
+        {
+          "term": "nihilism",
+          "count": 6,
+          "variants": [
+            "Nihilism"
+          ]
+        },
+        {
+          "term": "will to power",
+          "count": 5,
+          "variants": [
+            "Will to Power",
+            "will to power"
+          ]
+        },
+        {
+          "term": "slave morality",
+          "count": 3,
+          "variants": [
+            "slave morality",
+            "slave-morality"
+          ]
+        },
+        {
+          "term": "übermensch",
+          "count": 1,
+          "variants": [
+            "Superman"
+          ]
+        },
+        {
+          "term": "dionysian",
+          "count": 1,
+          "variants": [
+            "Dionysian"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the_twilight_of_the_idols",
+      "title": "The Twilight of the Idols",
+      "filename": "Nietzsche_The Twilight of the Idols.txt",
+      "word_count": 67903,
+      "unique_words": 6895,
+      "bag_of_words": {
+        "top_100": [
+          {
+            "word": "one",
+            "count": 372
+          },
+          {
+            "word": "man",
+            "count": 297
+          },
+          {
+            "word": "must",
+            "count": 248
+          },
+          {
+            "word": "life",
+            "count": 236
+          },
+          {
+            "word": "even",
+            "count": 218
+          },
+          {
+            "word": "god",
+            "count": 192
+          },
+          {
+            "word": "things",
+            "count": 166
+          },
+          {
+            "word": "every",
+            "count": 166
+          },
+          {
+            "word": "world",
+            "count": 163
+          },
+          {
+            "word": "would",
+            "count": 157
+          },
+          {
+            "word": "means",
+            "count": 141
+          },
+          {
+            "word": "upon",
+            "count": 129
+          },
+          {
+            "word": "great",
+            "count": 122
+          },
+          {
+            "word": "christianity",
+            "count": 118
+          },
+          {
+            "word": "whole",
+            "count": 117
+          },
+          {
+            "word": "first",
+            "count": 116
+          },
+          {
+            "word": "people",
+            "count": 115
+          },
+          {
+            "word": "say",
+            "count": 114
+          },
+          {
+            "word": "also",
+            "count": 106
+          },
+          {
+            "word": "christian",
+            "count": 106
+          },
+          {
+            "word": "fact",
+            "count": 105
+          },
+          {
+            "word": "order",
+            "count": 101
+          },
+          {
+            "word": "power",
+            "count": 101
+          },
+          {
+            "word": "may",
+            "count": 99
+          },
+          {
+            "word": "everything",
+            "count": 98
+          },
+          {
+            "word": "morality",
+            "count": 90
+          },
+          {
+            "word": "instinct",
+            "count": 90
+          },
+          {
+            "word": "state",
+            "count": 89
+          },
+          {
+            "word": "good",
+            "count": 86
+          },
+          {
+            "word": "instincts",
+            "count": 84
+          },
+          {
+            "word": "kind",
+            "count": 80
+          },
+          {
+            "word": "men",
+            "count": 79
+          },
+          {
+            "word": "truth",
+            "count": 78
+          },
+          {
+            "word": "like",
+            "count": 78
+          },
+          {
+            "word": "time",
+            "count": 75
+          },
+          {
+            "word": "thing",
+            "count": 74
+          },
+          {
+            "word": "longer",
+            "count": 73
+          },
+          {
+            "word": "certain",
+            "count": 72
+          },
+          {
+            "word": "german",
+            "count": 72
+          },
+          {
+            "word": "nature",
+            "count": 71
+          },
+          {
+            "word": "already",
+            "count": 71
+          },
+          {
+            "word": "ever",
+            "count": 69
+          },
+          {
+            "word": "form",
+            "count": 67
+          },
+          {
+            "word": "much",
+            "count": 66
+          },
+          {
+            "word": "something",
+            "count": 65
+          },
+          {
+            "word": "let",
+            "count": 65
+          },
+          {
+            "word": "nothing",
+            "count": 65
+          },
+          {
+            "word": "true",
+            "count": 64
+          },
+          {
+            "word": "mankind",
+            "count": 64
+          },
+          {
+            "word": "possible",
+            "count": 64
+          },
+          {
+            "word": "faith",
+            "count": 63
+          },
+          {
+            "word": "new",
+            "count": 62
+          },
+          {
+            "word": "concept",
+            "count": 61
+          },
+          {
+            "word": "could",
+            "count": 59
+          },
+          {
+            "word": "still",
+            "count": 59
+          },
+          {
+            "word": "reason",
+            "count": 58
+          },
+          {
+            "word": "become",
+            "count": 58
+          },
+          {
+            "word": "know",
+            "count": 57
+          },
+          {
+            "word": "necessary",
+            "count": 57
+          },
+          {
+            "word": "case",
+            "count": 56
+          },
+          {
+            "word": "energy",
+            "count": 56
+          },
+          {
+            "word": "make",
+            "count": 55
+          },
+          {
+            "word": "precisely",
+            "count": 55
+          },
+          {
+            "word": "able",
+            "count": 55
+          },
+          {
+            "word": "question",
+            "count": 54
+          },
+          {
+            "word": "love",
+            "count": 54
+          },
+          {
+            "word": "alone",
+            "count": 53
+          },
+          {
+            "word": "cause",
+            "count": 52
+          },
+          {
+            "word": "moral",
+            "count": 52
+          },
+          {
+            "word": "feeling",
+            "count": 52
+          },
+          {
+            "word": "reality",
+            "count": 52
+          },
+          {
+            "word": "made",
+            "count": 51
+          },
+          {
+            "word": "type",
+            "count": 51
+          },
+          {
+            "word": "merely",
+            "count": 51
+          },
+          {
+            "word": "right",
+            "count": 51
+          },
+          {
+            "word": "eternal",
+            "count": 50
+          },
+          {
+            "word": "last",
+            "count": 50
+          },
+          {
+            "word": "art",
+            "count": 50
+          },
+          {
+            "word": "instance",
+            "count": 49
+          },
+          {
+            "word": "highest",
+            "count": 49
+          },
+          {
+            "word": "nietzsche",
+            "count": 48
+          },
+          {
+            "word": "spirit",
+            "count": 48
+          },
+          {
+            "word": "word",
+            "count": 48
+          },
+          {
+            "word": "death",
+            "count": 47
+          },
+          {
+            "word": "well",
+            "count": 47
+          },
+          {
+            "word": "way",
+            "count": 47
+          },
+          {
+            "word": "history",
+            "count": 47
+          },
+          {
+            "word": "thought",
+            "count": 46
+          },
+          {
+            "word": "always",
+            "count": 46
+          },
+          {
+            "word": "among",
+            "count": 46
+          },
+          {
+            "word": "matter",
+            "count": 46
+          },
+          {
+            "word": "value",
+            "count": 45
+          },
+          {
+            "word": "idea",
+            "count": 45
+          },
+          {
+            "word": "church",
+            "count": 45
+          },
+          {
+            "word": "priest",
+            "count": 45
+          },
+          {
+            "word": "end",
+            "count": 44
+          },
+          {
+            "word": "point",
+            "count": 44
+          },
+          {
+            "word": "number",
+            "count": 43
+          },
+          {
+            "word": "values",
+            "count": 43
+          },
+          {
+            "word": "becomes",
+            "count": 43
+          }
+        ],
+        "total_vocabulary": 6732,
+        "total_words_analyzed": 31818
+      },
+      "sentiment": {
+        "vader": {
+          "compound": 0.5781,
+          "positive": 0.1364,
+          "negative": 0.0976,
+          "neutral": 0.766
+        }
+      },
+      "style_metrics": {
+        "sentences": {
+          "count": 2379,
+          "avg_length": 34.79,
+          "median_length": 27,
+          "std_dev": 30.22,
+          "min_length": 1,
+          "max_length": 337,
+          "distribution": {
+            "0-10": 383,
+            "11-20": 520,
+            "21-30": 434,
+            "31-40": 346,
+            "41-50": 217,
+            "51+": 479
+          }
+        },
+        "vocabulary": {
+          "total_words": 67903,
+          "unique_words": 6895,
+          "type_token_ratio": 0.1015,
+          "lexical_diversity": 26.46
+        },
+        "readability": {
+          "flesch_reading_ease": 56.29,
+          "flesch_kincaid_grade": 11.2,
+          "gunning_fog": 10.87
+        },
+        "word_length": {
+          "average": 4.57,
+          "distribution": {
+            "1-3": 30299,
+            "4-6": 22650,
+            "7-9": 10836,
+            "10+": 4118
+          }
+        },
+        "punctuation": {
+          "period": 3373,
+          "exclamation": 297,
+          "question": 314,
+          "semicolon": 465,
+          "colon": 721,
+          "comma": 5000,
+          "dash": 1279,
+          "parentheses": 382,
+          "quotes": 0,
+          "density_per_1000": 174.23
+        }
+      },
+      "ngrams": {
+        "bigrams": [
+          {
+            "phrase": "the whole",
+            "count": 87
+          },
+          {
+            "phrase": "the first",
+            "count": 75
+          },
+          {
+            "phrase": "the world",
+            "count": 75
+          },
+          {
+            "phrase": "fact that",
+            "count": 66
+          },
+          {
+            "phrase": "the fact",
+            "count": 65
+          },
+          {
+            "phrase": "for instance",
+            "count": 43
+          },
+          {
+            "phrase": "the highest",
+            "count": 43
+          },
+          {
+            "phrase": "the concept",
+            "count": 40
+          },
+          {
+            "phrase": "the great",
+            "count": 39
+          },
+          {
+            "phrase": "the christian",
+            "count": 37
+          },
+          {
+            "phrase": "even the",
+            "count": 35
+          },
+          {
+            "phrase": "must have",
+            "count": 33
+          },
+          {
+            "phrase": "the church",
+            "count": 33
+          },
+          {
+            "phrase": "the priest",
+            "count": 33
+          },
+          {
+            "phrase": "would have",
+            "count": 31
+          },
+          {
+            "phrase": "the instincts",
+            "count": 31
+          },
+          {
+            "phrase": "upon the",
+            "count": 28
+          },
+          {
+            "phrase": "life the",
+            "count": 28
+          },
+          {
+            "phrase": "the instinct",
+            "count": 27
+          },
+          {
+            "phrase": "god the",
+            "count": 26
+          },
+          {
+            "phrase": "the greatest",
+            "count": 26
+          },
+          {
+            "phrase": "say the",
+            "count": 25
+          },
+          {
+            "phrase": "the last",
+            "count": 25
+          },
+          {
+            "phrase": "the latter",
+            "count": 25
+          },
+          {
+            "phrase": "man who",
+            "count": 24
+          },
+          {
+            "phrase": "the man",
+            "count": 24
+          },
+          {
+            "phrase": "not even",
+            "count": 22
+          },
+          {
+            "phrase": "the present",
+            "count": 21
+          },
+          {
+            "phrase": "the question",
+            "count": 21
+          },
+          {
+            "phrase": "the outcome",
+            "count": 21
+          }
+        ],
+        "trigrams": [
+          {
+            "phrase": "the fact that",
+            "count": 60
+          },
+          {
+            "phrase": "must have been",
+            "count": 14
+          },
+          {
+            "phrase": "the other hand",
+            "count": 14
+          },
+          {
+            "phrase": "fact that the",
+            "count": 14
+          },
+          {
+            "phrase": "the kingdom god",
+            "count": 13
+          },
+          {
+            "phrase": "the whole the",
+            "count": 13
+          },
+          {
+            "phrase": "the true world",
+            "count": 11
+          },
+          {
+            "phrase": "would have been",
+            "count": 10
+          },
+          {
+            "phrase": "there such thing",
+            "count": 10
+          },
+          {
+            "phrase": "all these things",
+            "count": 10
+          },
+          {
+            "phrase": "the first place",
+            "count": 9
+          },
+          {
+            "phrase": "the new testament",
+            "count": 9
+          },
+          {
+            "phrase": "that has ever",
+            "count": 9
+          },
+          {
+            "phrase": "the type the",
+            "count": 9
+          },
+          {
+            "phrase": "call him good",
+            "count": 9
+          },
+          {
+            "phrase": "him good who",
+            "count": 9
+          },
+          {
+            "phrase": "the man who",
+            "count": 8
+          },
+          {
+            "phrase": "the will god",
+            "count": 8
+          },
+          {
+            "phrase": "transvaluation all values",
+            "count": 7
+          },
+          {
+            "phrase": "has always been",
+            "count": 7
+          },
+          {
+            "phrase": "ever more and",
+            "count": 7
+          },
+          {
+            "phrase": "was the first",
+            "count": 7
+          },
+          {
+            "phrase": "for instance the",
+            "count": 7
+          },
+          {
+            "phrase": "the present day",
+            "count": 7
+          },
+          {
+            "phrase": "that say the",
+            "count": 7
+          },
+          {
+            "phrase": "the psychology the",
+            "count": 7
+          },
+          {
+            "phrase": "the concept god",
+            "count": 7
+          },
+          {
+            "phrase": "the history the",
+            "count": 7
+          },
+          {
+            "phrase": "the end the",
+            "count": 6
+          },
+          {
+            "phrase": "not any means",
+            "count": 6
+          }
+        ]
+      },
+      "key_concepts": [
+        {
+          "term": "übermensch",
+          "count": 14,
+          "variants": [
+            "Superman",
+            "superman"
+          ]
+        },
+        {
+          "term": "eternal recurrence",
+          "count": 14,
+          "variants": [
+            "ETERNAL RECURRENCE",
+            "Eternal Recurrence",
+            "eternal\nrecurrence",
+            "eternal recurrence"
+          ]
+        },
+        {
+          "term": "dionysian",
+          "count": 12,
+          "variants": [
+            "Dionysian"
+          ]
+        },
+        {
+          "term": "will to power",
+          "count": 8,
+          "variants": [
+            "Will to Power",
+            "will to power"
+          ]
+        },
+        {
+          "term": "ressentiment",
+          "count": 6,
+          "variants": [
+            "resentment"
+          ]
+        },
+        {
+          "term": "nihilism",
+          "count": 6,
+          "variants": [
+            "Nihilist",
+            "nihilist",
+            "nihilism",
+            "Nihilism"
+          ]
+        },
+        {
+          "term": "apollonian",
+          "count": 2,
+          "variants": [
+            "Apollonian"
+          ]
+        },
+        {
+          "term": "genealogy",
+          "count": 1,
+          "variants": [
+            "Genealogy"
+          ]
+        }
+      ]
+    }
+  ],
+  "comparative": {
+    "vocabulary_overlap": {
+      "pairs": [
+        {
+          "text1": "beyond_good_and_evil",
+          "text2": "ecce_homo",
+          "shared_words": 3364,
+          "unique_to_text1": 4126,
+          "unique_to_text2": 2916,
+          "jaccard_similarity": 0.3233,
+          "overlap_percentage_text1": 44.91,
+          "overlap_percentage_text2": 53.57
+        },
+        {
+          "text1": "beyond_good_and_evil",
+          "text2": "human_all_too_human",
+          "shared_words": 2959,
+          "unique_to_text1": 4531,
+          "unique_to_text2": 2135,
+          "jaccard_similarity": 0.3074,
+          "overlap_percentage_text1": 39.51,
+          "overlap_percentage_text2": 58.09
+        },
+        {
+          "text1": "beyond_good_and_evil",
+          "text2": "the_antichrist",
+          "shared_words": 2799,
+          "unique_to_text1": 4691,
+          "unique_to_text2": 1976,
+          "jaccard_similarity": 0.2957,
+          "overlap_percentage_text1": 37.37,
+          "overlap_percentage_text2": 58.62
+        },
+        {
+          "text1": "beyond_good_and_evil",
+          "text2": "the_birth_of_tragedy",
+          "shared_words": 3442,
+          "unique_to_text1": 4048,
+          "unique_to_text2": 3223,
+          "jaccard_similarity": 0.3213,
+          "overlap_percentage_text1": 45.95,
+          "overlap_percentage_text2": 51.64
+        },
+        {
+          "text1": "beyond_good_and_evil",
+          "text2": "the_genealogy_of_morals",
+          "shared_words": 3507,
+          "unique_to_text1": 3983,
+          "unique_to_text2": 3259,
+          "jaccard_similarity": 0.3263,
+          "overlap_percentage_text1": 46.82,
+          "overlap_percentage_text2": 51.83
+        },
+        {
+          "text1": "beyond_good_and_evil",
+          "text2": "the_twilight_of_the_idols",
+          "shared_words": 3738,
+          "unique_to_text1": 3752,
+          "unique_to_text2": 3157,
+          "jaccard_similarity": 0.3511,
+          "overlap_percentage_text1": 49.91,
+          "overlap_percentage_text2": 54.21
+        },
+        {
+          "text1": "ecce_homo",
+          "text2": "human_all_too_human",
+          "shared_words": 2520,
+          "unique_to_text1": 3760,
+          "unique_to_text2": 2574,
+          "jaccard_similarity": 0.2846,
+          "overlap_percentage_text1": 40.13,
+          "overlap_percentage_text2": 49.47
+        },
+        {
+          "text1": "ecce_homo",
+          "text2": "the_antichrist",
+          "shared_words": 2550,
+          "unique_to_text1": 3730,
+          "unique_to_text2": 2225,
+          "jaccard_similarity": 0.2998,
+          "overlap_percentage_text1": 40.61,
+          "overlap_percentage_text2": 53.4
+        },
+        {
+          "text1": "ecce_homo",
+          "text2": "the_birth_of_tragedy",
+          "shared_words": 3066,
+          "unique_to_text1": 3214,
+          "unique_to_text2": 3599,
+          "jaccard_similarity": 0.3104,
+          "overlap_percentage_text1": 48.82,
+          "overlap_percentage_text2": 46.0
+        },
+        {
+          "text1": "ecce_homo",
+          "text2": "the_genealogy_of_morals",
+          "shared_words": 3091,
+          "unique_to_text1": 3189,
+          "unique_to_text2": 3675,
+          "jaccard_similarity": 0.3105,
+          "overlap_percentage_text1": 49.22,
+          "overlap_percentage_text2": 45.68
+        },
+        {
+          "text1": "ecce_homo",
+          "text2": "the_twilight_of_the_idols",
+          "shared_words": 3507,
+          "unique_to_text1": 2773,
+          "unique_to_text2": 3388,
+          "jaccard_similarity": 0.3627,
+          "overlap_percentage_text1": 55.84,
+          "overlap_percentage_text2": 50.86
+        },
+        {
+          "text1": "human_all_too_human",
+          "text2": "the_antichrist",
+          "shared_words": 2223,
+          "unique_to_text1": 2871,
+          "unique_to_text2": 2552,
+          "jaccard_similarity": 0.2907,
+          "overlap_percentage_text1": 43.64,
+          "overlap_percentage_text2": 46.55
+        },
+        {
+          "text1": "human_all_too_human",
+          "text2": "the_birth_of_tragedy",
+          "shared_words": 2708,
+          "unique_to_text1": 2386,
+          "unique_to_text2": 3957,
+          "jaccard_similarity": 0.2992,
+          "overlap_percentage_text1": 53.16,
+          "overlap_percentage_text2": 40.63
+        },
+        {
+          "text1": "human_all_too_human",
+          "text2": "the_genealogy_of_morals",
+          "shared_words": 2710,
+          "unique_to_text1": 2384,
+          "unique_to_text2": 4056,
+          "jaccard_similarity": 0.2962,
+          "overlap_percentage_text1": 53.2,
+          "overlap_percentage_text2": 40.05
+        },
+        {
+          "text1": "human_all_too_human",
+          "text2": "the_twilight_of_the_idols",
+          "shared_words": 2819,
+          "unique_to_text1": 2275,
+          "unique_to_text2": 4076,
+          "jaccard_similarity": 0.3074,
+          "overlap_percentage_text1": 55.34,
+          "overlap_percentage_text2": 40.88
+        },
+        {
+          "text1": "the_antichrist",
+          "text2": "the_birth_of_tragedy",
+          "shared_words": 2450,
+          "unique_to_text1": 2325,
+          "unique_to_text2": 4215,
+          "jaccard_similarity": 0.2725,
+          "overlap_percentage_text1": 51.31,
+          "overlap_percentage_text2": 36.76
+        },
+        {
+          "text1": "the_antichrist",
+          "text2": "the_genealogy_of_morals",
+          "shared_words": 2604,
+          "unique_to_text1": 2171,
+          "unique_to_text2": 4162,
+          "jaccard_similarity": 0.2914,
+          "overlap_percentage_text1": 54.53,
+          "overlap_percentage_text2": 38.49
+        },
+        {
+          "text1": "the_antichrist",
+          "text2": "the_twilight_of_the_idols",
+          "shared_words": 3299,
+          "unique_to_text1": 1476,
+          "unique_to_text2": 3596,
+          "jaccard_similarity": 0.3941,
+          "overlap_percentage_text1": 69.09,
+          "overlap_percentage_text2": 47.85
+        },
+        {
+          "text1": "the_birth_of_tragedy",
+          "text2": "the_genealogy_of_morals",
+          "shared_words": 3109,
+          "unique_to_text1": 3556,
+          "unique_to_text2": 3657,
+          "jaccard_similarity": 0.3012,
+          "overlap_percentage_text1": 46.65,
+          "overlap_percentage_text2": 45.95
+        },
+        {
+          "text1": "the_birth_of_tragedy",
+          "text2": "the_twilight_of_the_idols",
+          "shared_words": 3315,
+          "unique_to_text1": 3350,
+          "unique_to_text2": 3580,
+          "jaccard_similarity": 0.3236,
+          "overlap_percentage_text1": 49.74,
+          "overlap_percentage_text2": 48.08
+        },
+        {
+          "text1": "the_genealogy_of_morals",
+          "text2": "the_twilight_of_the_idols",
+          "shared_words": 3451,
+          "unique_to_text1": 3315,
+          "unique_to_text2": 3444,
+          "jaccard_similarity": 0.338,
+          "overlap_percentage_text1": 51.01,
+          "overlap_percentage_text2": 50.05
+        }
+      ],
+      "similarity_matrix": {
+        "beyond_good_and_evil": {
+          "beyond_good_and_evil": 1.0,
+          "ecce_homo": 0.3233,
+          "human_all_too_human": 0.3074,
+          "the_antichrist": 0.2957,
+          "the_birth_of_tragedy": 0.3213,
+          "the_genealogy_of_morals": 0.3263,
+          "the_twilight_of_the_idols": 0.3511
+        },
+        "ecce_homo": {
+          "beyond_good_and_evil": 0.3233,
+          "ecce_homo": 1.0,
+          "human_all_too_human": 0.2846,
+          "the_antichrist": 0.2998,
+          "the_birth_of_tragedy": 0.3104,
+          "the_genealogy_of_morals": 0.3105,
+          "the_twilight_of_the_idols": 0.3627
+        },
+        "human_all_too_human": {
+          "beyond_good_and_evil": 0.3074,
+          "ecce_homo": 0.2846,
+          "human_all_too_human": 1.0,
+          "the_antichrist": 0.2907,
+          "the_birth_of_tragedy": 0.2992,
+          "the_genealogy_of_morals": 0.2962,
+          "the_twilight_of_the_idols": 0.3074
+        },
+        "the_antichrist": {
+          "beyond_good_and_evil": 0.2957,
+          "ecce_homo": 0.2998,
+          "human_all_too_human": 0.2907,
+          "the_antichrist": 1.0,
+          "the_birth_of_tragedy": 0.2725,
+          "the_genealogy_of_morals": 0.2914,
+          "the_twilight_of_the_idols": 0.3941
+        },
+        "the_birth_of_tragedy": {
+          "beyond_good_and_evil": 0.3213,
+          "ecce_homo": 0.3104,
+          "human_all_too_human": 0.2992,
+          "the_antichrist": 0.2725,
+          "the_birth_of_tragedy": 1.0,
+          "the_genealogy_of_morals": 0.3012,
+          "the_twilight_of_the_idols": 0.3236
+        },
+        "the_genealogy_of_morals": {
+          "beyond_good_and_evil": 0.3263,
+          "ecce_homo": 0.3105,
+          "human_all_too_human": 0.2962,
+          "the_antichrist": 0.2914,
+          "the_birth_of_tragedy": 0.3012,
+          "the_genealogy_of_morals": 1.0,
+          "the_twilight_of_the_idols": 0.338
+        },
+        "the_twilight_of_the_idols": {
+          "beyond_good_and_evil": 0.3511,
+          "ecce_homo": 0.3627,
+          "human_all_too_human": 0.3074,
+          "the_antichrist": 0.3941,
+          "the_birth_of_tragedy": 0.3236,
+          "the_genealogy_of_morals": 0.338,
+          "the_twilight_of_the_idols": 1.0
+        }
+      }
+    },
+    "sentiment_summary": {
+      "compound": {
+        "mean": 0.7059,
+        "std_dev": 0.2179,
+        "min": 0.3043,
+        "max": 0.9144,
+        "range": 0.6101
+      },
+      "positive": {
+        "mean": 0.1432,
+        "std_dev": 0.0067
+      },
+      "negative": {
+        "mean": 0.1018,
+        "std_dev": 0.0095
+      },
+      "neutral": {
+        "mean": 0.755,
+        "std_dev": 0.0149
+      }
+    },
+    "style_summary": {
+      "sentence_length": {
+        "mean": 36.94,
+        "std_dev": 5.12,
+        "range": [
+          28.68,
+          44.46
+        ]
+      },
+      "type_token_ratio": {
+        "mean": 0.1275,
+        "std_dev": 0.0148,
+        "range": [
+          0.1015,
+          0.146
+        ]
+      },
+      "flesch_reading_ease": {
+        "mean": 51.19,
+        "std_dev": 8.71,
+        "range": [
+          41.37,
+          65.35
+        ]
+      },
+      "flesch_kincaid_grade": {
+        "mean": 13.44,
+        "std_dev": 2.82,
+        "range": [
+          9.8,
+          16.9
+        ]
+      },
+      "avg_word_length": {
+        "mean": 4.62,
+        "std_dev": 0.12,
+        "range": [
+          4.41,
+          4.76
+        ]
+      }
+    }
+  }
+}

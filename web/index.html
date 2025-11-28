@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nietzsche: Distant Reading Analysis</title>
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container-fluid">
+            <span class="navbar-brand mb-0 h1">Nietzsche: Distant Reading Analysis</span>
+            <span class="navbar-text text-light small">
+                Computational analysis of 7 philosophical works
+            </span>
+        </div>
+    </nav>
+
+    <!-- Main Container -->
+    <div class="container-fluid py-4">
+        <div class="row">
+            <!-- Sidebar - Text Selection -->
+            <div class="col-md-3 col-lg-2">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="card-title mb-0">Select Text</h5>
+                    </div>
+                    <div class="card-body">
+                        <div id="text-selector" class="list-group">
+                            <!-- Will be populated dynamically -->
+                        </div>
+
+                        <hr class="my-3">
+
+                        <h6 class="mb-2">Compare Texts</h6>
+                        <div id="comparison-checkboxes" class="form-check-list">
+                            <!-- Will be populated dynamically -->
+                        </div>
+                        <button id="compare-btn" class="btn btn-primary btn-sm mt-2 w-100" disabled>
+                            Compare Selected
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main Content Area -->
+            <div class="col-md-9 col-lg-10">
+                <!-- Single Text View -->
+                <div id="single-text-view">
+                    <!-- Overview Card -->
+                    <div class="card mb-3">
+                        <div class="card-body">
+                            <h2 id="text-title" class="card-title">Select a text to begin</h2>
+                            <p id="text-metadata" class="text-muted"></p>
+                        </div>
+                    </div>
+
+                    <!-- Tab Navigation -->
+                    <ul class="nav nav-tabs" id="analysis-tabs" role="tablist" style="display: none;">
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link active" id="overview-tab" data-bs-toggle="tab"
+                                    data-bs-target="#overview" type="button" role="tab">
+                                Overview
+                            </button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="wordcloud-tab" data-bs-toggle="tab"
+                                    data-bs-target="#wordcloud" type="button" role="tab">
+                                Word Cloud
+                            </button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="sentiment-tab" data-bs-toggle="tab"
+                                    data-bs-target="#sentiment" type="button" role="tab">
+                                Sentiment
+                            </button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="style-tab" data-bs-toggle="tab"
+                                    data-bs-target="#style" type="button" role="tab">
+                                Style Metrics
+                            </button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="ngrams-tab" data-bs-toggle="tab"
+                                    data-bs-target="#ngrams" type="button" role="tab">
+                                N-grams & Concepts
+                            </button>
+                        </li>
+                    </ul>
+
+                    <!-- Tab Content -->
+                    <div class="tab-content border border-top-0 p-3" id="tab-content" style="display: none;">
+                        <!-- Overview Tab -->
+                        <div class="tab-pane fade show active" id="overview" role="tabpanel">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <h5>Basic Statistics</h5>
+                                    <table class="table table-sm">
+                                        <tbody id="overview-stats">
+                                            <!-- Populated dynamically -->
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="col-md-6">
+                                    <h5>Quick Insights</h5>
+                                    <div id="quick-insights">
+                                        <!-- Populated dynamically -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Word Cloud Tab -->
+                        <div class="tab-pane fade" id="wordcloud" role="tabpanel">
+                            <h5 class="mb-3">Most Frequent Words</h5>
+                            <div class="wordcloud-container">
+                                <canvas id="wordcloud-canvas"></canvas>
+                            </div>
+                        </div>
+
+                        <!-- Sentiment Tab -->
+                        <div class="tab-pane fade" id="sentiment" role="tabpanel">
+                            <h5 class="mb-3">Sentiment Analysis (VADER)</h5>
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <canvas id="sentiment-chart"></canvas>
+                                </div>
+                                <div class="col-md-4">
+                                    <div id="sentiment-details">
+                                        <!-- Populated dynamically -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Style Metrics Tab -->
+                        <div class="tab-pane fade" id="style" role="tabpanel">
+                            <h5 class="mb-3">Stylistic Analysis</h5>
+                            <div id="style-metrics-content">
+                                <!-- Populated dynamically -->
+                            </div>
+                        </div>
+
+                        <!-- N-grams & Concepts Tab -->
+                        <div class="tab-pane fade" id="ngrams" role="tabpanel">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <h5>Key Philosophical Concepts</h5>
+                                    <div id="concepts-list">
+                                        <!-- Populated dynamically -->
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <h5>Frequent Phrases</h5>
+                                    <ul class="nav nav-pills mb-2" id="ngram-pills">
+                                        <li class="nav-item">
+                                            <a class="nav-link active" href="#" data-ngram="bigrams">2-word</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="#" data-ngram="trigrams">3-word</a>
+                                        </li>
+                                    </ul>
+                                    <div id="ngrams-list">
+                                        <!-- Populated dynamically -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Comparison View -->
+                <div id="comparison-view" style="display: none;">
+                    <div class="card mb-3">
+                        <div class="card-header d-flex justify-content-between align-items-center">
+                            <h4 class="mb-0">Text Comparison</h4>
+                            <button id="close-comparison" class="btn btn-sm btn-secondary">
+                                Back to Single View
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <div id="comparison-content">
+                                <!-- Populated dynamically -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- D3 and d3-cloud -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-cloud@1.2.7/build/d3.layout.cloud.min.js"></script>
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+
+    <!-- Custom JavaScript Modules -->
+    <script src="js/data-loader.js"></script>
+    <script src="js/wordcloud.js"></script>
+    <script src="js/sentiment.js"></script>
+    <script src="js/style-metrics.js"></script>
+    <script src="js/ngrams.js"></script>
+    <script src="js/comparison.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

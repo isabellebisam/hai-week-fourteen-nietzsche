@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "generated": "2025-11-28T16:25:41.364055",
+    "total_texts": 7,
+    "analysis_version": "1.0"
+  },
+  "texts": [
+    {
+      "id": "beyond_good_and_evil",
+      "title": "Beyond Good and Evil",
+      "word_count": 62815,
+      "unique_words": 7490,
+      "sentiment": 0.9045,
+      "readability": 44.21
+    },
+    {
+      "id": "ecce_homo",
+      "title": "Ecce Homo",
+      "word_count": 46180,
+      "unique_words": 6280,
+      "sentiment": 0.8387,
+      "readability": 65.35
+    },
+    {
+      "id": "human_all_too_human",
+      "title": "Human All Too Human",
+      "word_count": 36449,
+      "unique_words": 5094,
+      "sentiment": 0.9144,
+      "readability": 52.43
+    },
+    {
+      "id": "the_antichrist",
+      "title": "The Antichrist",
+      "word_count": 32713,
+      "unique_words": 4775,
+      "sentiment": 0.6435,
+      "readability": 55.47
+    },
+    {
+      "id": "the_birth_of_tragedy",
+      "title": "The Birth of Tragedy",
+      "word_count": 53129,
+      "unique_words": 6665,
+      "sentiment": 0.7578,
+      "readability": 41.37
+    },
+    {
+      "id": "the_genealogy_of_morals",
+      "title": "The Genealogy of Morals",
+      "word_count": 54174,
+      "unique_words": 6766,
+      "sentiment": 0.3043,
+      "readability": 43.19
+    },
+    {
+      "id": "the_twilight_of_the_idols",
+      "title": "The Twilight of the Idols",
+      "word_count": 67903,
+      "unique_words": 6895,
+      "sentiment": 0.5781,
+      "readability": 56.29
+    }
+  ],
+  "comparative": {
+    "sentiment_summary": {
+      "compound": {
+        "mean": 0.7059,
+        "std_dev": 0.2179,
+        "min": 0.3043,
+        "max": 0.9144,
+        "range": 0.6101
+      },
+      "positive": {
+        "mean": 0.1432,
+        "std_dev": 0.0067
+      },
+      "negative": {
+        "mean": 0.1018,
+        "std_dev": 0.0095
+      },
+      "neutral": {
+        "mean": 0.755,
+        "std_dev": 0.0149
+      }
+    },
+    "style_summary": {
+      "sentence_length": {
+        "mean": 36.94,
+        "std_dev": 5.12,
+        "range": [
+          28.68,
+          44.46
+        ]
+      },
+      "type_token_ratio": {
+        "mean": 0.1275,
+        "std_dev": 0.0148,
+        "range": [
+          0.1015,
+          0.146
+        ]
+      },
+      "flesch_reading_ease": {
+        "mean": 51.19,
+        "std_dev": 8.71,
+        "range": [
+          41.37,
+          65.35
+        ]
+      },
+      "flesch_kincaid_grade": {
+        "mean": 13.44,
+        "std_dev": 2.82,
+        "range": [
+          9.8,
+          16.9
+        ]
+      },
+      "avg_word_length": {
+        "mean": 4.62,
+        "std_dev": 0.12,
+        "range": [
+          4.41,
+          4.76
+        ]
+      }
+    }
+  }
+}
