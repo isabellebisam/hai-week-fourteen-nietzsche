@@ -27,7 +27,7 @@ const DataLoader = (function() {
         isLoading = true;
 
         try {
-            const response = await fetch('../data/nietzsche_analysis.json');
+            const response = await fetch('data/nietzsche_analysis.json');
 
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
@@ -107,3 +107,4 @@ const DataLoader = (function() {
         clearCache
     };
 })();
+
